@@ -78,7 +78,7 @@ Existirão episódios codificados no WEBGDH que irão aparecer no SIMH para codi
 Caso alguns destes episódios surjam na pesquisa no SIMH, mas já estejam codificados no WEBGDH, deverão marcar estes episódios para **Não Codificável** no SIMH com a causa **Codificado em ICD9CM**.
 <br>
 <br>
-<p class="faq"> 6. Porque é não aparecem algumas especialidades nos episódios de Cirurgia de Ambulatório?  </p>
+<p class="faq"> 6. Porque é que não aparecem especialidades nos episódios de Cirurgia de Ambulatório?  </p>
 
 Os episódios de cirurgia de ambulatório não possuem especialidade, uma vez que no SONHO não existe o novo código de serviço para os serviços dos episódios deste tipo, código esse, que indica qual a especialidade do serviço.
 
