@@ -81,4 +81,9 @@ Caso alguns destes episódios surjam na pesquisa no SIMH, mas já estejam codifi
 <p class="faq"> 6. Porque é que não aparecem especialidades nos episódios de Cirurgia de Ambulatório?  </p>
 
 Os episódios de cirurgia de ambulatório não possuem especialidade, uma vez que no SONHO não existe o novo código de serviço para os serviços dos episódios deste tipo, código esse, que indica qual a especialidade do serviço.
+<br>
+<br>
+<p class="faq"> 7. Porque é que a Hora de Admissão dos episódios de HDI não corresponde à hora de entrada? </p>
+
+Havendo alguns constrangimentos relativamente às horas de Admissão de episódios de HDI (hora sessão e hora de entrada), depois de análise conjunta da ACSS e SPMS, a hora de admissão para estes episódios tornou-se um campo editável.  
 
