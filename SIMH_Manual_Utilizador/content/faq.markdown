@@ -86,4 +86,8 @@ Os episódios de cirurgia de ambulatório não possuem especialidade, uma vez qu
 <p class="faq"> 7. Porque é que a Hora de Admissão dos episódios de HDI não corresponde à hora de entrada? </p>
 
 Havendo alguns constrangimentos relativamente às horas de Admissão de episódios de HDI (hora sessão e hora de entrada), depois de análise conjunta da ACSS e SPMS, a hora de admissão para estes episódios tornou-se um campo editável.  
+<br>
+<br>
+<p class="faq"> 8. Como separo o conteudo do ficheiro .csv por colunas? </p>
 
+Poderá consultar o guia em: <a href="./file/guias/FicheirosCSV-Excel.pdf">Ficheiro csv em colunas</a>
