@@ -208,7 +208,7 @@ Quando finalizada a edição de um episódio, podem ser realizadas três ações
 * **Finalizar** - Permite gravar a folha de codificação com o estado de finalizado, de forma a este episódio poder ser faturado.
 
 <br>
-### 6.3.1. Edição de um episódio
+### 6.3.1. Copiar Codificação de Outras Sessões
 
 <p class="faq">Copiar Codificação de Outras Sessões</p>
 <br>
