@@ -60,6 +60,8 @@ title: "Anexos"
 
 22. <a href="./file/releaseNotes/Release Notes 22-06-2017.pdf">Release Notes 22.06.2017</a>
 
+23. <a href="./file/releaseNotes/Release Notes 29-06-2017.pdf">Release Notes 29.06.2017</a>
+
 <div id="videos"></div>
 ---
 
