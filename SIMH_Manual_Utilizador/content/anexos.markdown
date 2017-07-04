@@ -48,6 +48,20 @@ title: "Anexos"
 
 16. <a href="./file/releaseNotes/Release Notes 27-04-2017.pdf">Release Notes 27.04.2017</a>
 
+17. <a href="./file/releaseNotes/Release Notes 10-05-2017.pdf">Release Notes 10.05.2017</a>
+
+18. <a href="./file/releaseNotes/Release Notes 18-05-2017.pdf">Release Notes 18.05.2017</a>
+
+19. <a href="./file/releaseNotes/Release Notes 25-05-2017.pdf">Release Notes 25.05.2017</a>
+
+20. <a href="./file/releaseNotes/Release Notes 01-06-2017.pdf">Release Notes 01.06.2017</a>
+
+21. <a href="./file/releaseNotes/Release Notes 08-06-2017.pdf">Release Notes 08.06.2017</a>
+
+22. <a href="./file/releaseNotes/Release Notes 22-06-2017.pdf">Release Notes 22.06.2017</a>
+
+23. <a href="./file/releaseNotes/Release Notes 29-06-2017.pdf">Release Notes 29.06.2017</a>
+
 <div id="videos"></div>
 ---
 

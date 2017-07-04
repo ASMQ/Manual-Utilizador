@@ -216,18 +216,16 @@ Quando finalizada a edição de um episódio, podem ser realizadas três ações
 * **Auditar** - Permite gravar a folha de codificação com o estado de auditoria;
 
 * **Finalizar** - Permite gravar a folha de codificação com o estado de finalizado, de forma a este episódio poder ser faturado.
+
 <br>
 <p class="faq">Copiar Codificação de Outras Sessões</p>
 <br>
 É possível **Copiar Codificação** entre sessões de episódios de ambulatório. Para que a opção fique visível, é necessário ter codificado pelo menos uma sessão pertencente ao mesmo episódio de ambulatório, ou seja, que exista outra sessão do mesmo episódio de ambulatório no estado **FINALIZADO**. Se existir mais que uma sessão codificada, o sistema irá copiar a codificação da sessão **codificada mais recentemente**.
-
 
 ![figRegistoCodificacaoEpisodios](img/pages/6_3_9.jpg)
 
 <p class="caption" id="figRegistoCodificacaoEpisodios">Exemplo do botão de Copiar Codificação</p>
 
 Quando pressionado o botão de **Copiar Codificação** este usa a última sessão válida codificada e copia a codificação dessa para o episódio em que o utilizador se encontra atualmente. No caso de haver mais que uma sessão codificada, o sistema vai buscar a última sessão codificada válida.
-
-
 
 
