@@ -29,7 +29,17 @@ Aqui, é possível realizar três ações distintas: **Pesquisa**, **Consulta** 
 
 ## 6.0. Processo de Codificação
 
-Antes de dar a conhecer as diferentes ações possíveis a realizar na aplicação sobre os episódios, será introduzido ao utilizador o conjunto de estados e ações passíveis de realizar sobre um episódio durante a sua existência.
+Antes de dar a conhecer as diferentes ações possíveis a realizar na aplicação sobre os episódios, será introduzido ao utilizador o conjunto de estados e ações passíveis de realizar sobre um episódio durante a sua existência. 
+Os diversos estados possíveis de um dado episódio podem ser:
+
+* **Por Codificar** - O episódio ainda não sofreu alterações para que este seja codificado e gravado. Foi integrado do SI fonte e ainda não teve alterações;
+* **Não Codificável** - O episódio será marcado para não codificar;
+* **Rascunho** - O episódio já sofreu alterações que foram gravadas;
+* **Em Agrupamento** - Para que o episódio transite para o estado "Em auditoria" ou "Finalizado" deve primeiro sofrer agrupamento GDH. Este estado é um estado temporário e acontece sempre que o episódio for marcado para "Em auditoria" ou "Finalizar";
+* **Em auditoria** - O episódio já foi codificado, gravado, agrupado automaticamente e encontra-se a aguardar por validações do médico auditor;
+* **Finalizado** - O episódio já foi codificado, gravado, agrupado automaticamente e encontra-se disponível para ser faturado pelo SI fonte;
+* **Alterado SI** - Quando um episódio se encontra no estado "Alterado SI" significa que existiu uma alteração no Sistema de Informação Fonte (sistema de onde provêm os dados dos episódios) que tem impacto no SIMH. Quando estas alterações são detetadas e o episódio se encontrar no estado "Em Auditoria" ou "Finalizado", este será desagrupado e passado para este estado;
+* **Fechado** - O episódio foi faturado e já não pode ser alterado ;
  
 Este fluxo de estados pode ser consultado a partir da [](#figEstadosCodificacaoEpisodio).
 
@@ -46,7 +56,7 @@ Este fluxo de estados pode ser consultado a partir da [](#figEstadosCodificacaoE
 <p class="caption" id="figEstadosCodificacaoEpisodio2">Fluxo de estados e operações sobre um episódio Finalizado</p>
 
 Um episódio começa sempre no estado **Por Codificar**. A única forma de o colocar disponível para faturação, é ao transitá-lo para o estado **Finalizado**.
-Para que transite para este estado, o episódio deve primeiro sofrer agrupamento GDH. Um episódio pode, adicionalmente, ser guardado em rascunho ou ser auditado. Caso o utilizador esteja à procura de uma visão mais completa e abrangente do fluxo de estados e ações associado a um episódio, pode sempre consultar o seguinte [diagrama](img/episodio_estados_accoes_detalhe.png).
+Para que transite para este estado, o episódio deve primeiro sofrer agrupamento GDH. Um episódio pode, adicionalmente, ser guardado em rascunho ou ser auditado.  Caso o utilizador esteja à procura de uma visão mais completa e abrangente do fluxo de estados e ações associado a um episódio, pode sempre consultar o seguinte [diagrama](img/episodio_estados_accoes_detalhe.png).
 
 <div id="codificacao-pesquisa-de-episodios"></div>
 
@@ -217,6 +227,5 @@ Quando finalizada a edição de um episódio, podem ser realizadas três ações
 <p class="caption" id="figRegistoCodificacaoEpisodios">Exemplo do botão de Copiar Codificação</p>
 
 Quando pressionado o botão de **Copiar Codificação** este usa a última sessão válida codificada e copia a codificação dessa para o episódio em que o utilizador se encontra atualmente. No caso de haver mais que uma sessão codificada, o sistema vai buscar a última sessão codificada válida.
-
 
 
