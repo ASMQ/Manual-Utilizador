@@ -32,13 +32,13 @@ Aqui, é possível realizar três ações distintas: **Pesquisa**, **Consulta** 
 Antes de dar a conhecer as diferentes ações possíveis a realizar na aplicação sobre os episódios, será introduzido ao utilizador o conjunto de estados e ações passíveis de realizar sobre um episódio durante a sua existência. 
 Os diversos estados possíveis de um dado episódio podem ser:
 
-* **Por Codificar** - O episódio ainda não sofreu alterações para que este seja codificado e gravado;
-* **Não Codificável** - O episódio será marcado para não codificável;
+* **Por Codificar** - O episódio ainda não sofreu alterações para que este seja codificado e gravado. Foi integrado do SI fonte e ainda não teve alterações;
+* **Não Codificável** - O episódio será marcado para não codificar;
 * **Rascunho** - O episódio já sofreu alterações que foram gravadas;
-* **Em Agrupamento** - Para que o episódio transite para o estado "Em auditoria" ou "Finalizado" deve primeiro sofer agrupamento GDH. Este estado é um estado temporário sempre que o episódio for marcado para "Em auditoria" ou "Finalizar";
-* **Em auditoria** - O episódio já foi codificado, gravado, agrupado automaticamente e encontra-se a aguaradar por validações do médico auditor;
-* **Finalizado** - O episódio já se encontra disponível para ser faturado ;
-* **Alterado SI** - Quando um episódio se encontra no estado "Alterado SI" significa que existiu uma alteração no Sistema de Informação Fonte (sistema de onde provêm os dados dos episódios) que tem impacto no SIMH. Quando estas alterações são detectadas e o episódio se encontrar no estado "Em Auditoria" ou "Finalizado", este será desagrupado e passado para este estado;
+* **Em Agrupamento** - Para que o episódio transite para o estado "Em auditoria" ou "Finalizado" deve primeiro sofrer agrupamento GDH. Este estado é um estado temporário e acontece sempre que o episódio for marcado para "Em auditoria" ou "Finalizar";
+* **Em auditoria** - O episódio já foi codificado, gravado, agrupado automaticamente e encontra-se a aguardar por validações do médico auditor;
+* **Finalizado** - O episódio já foi codificado, gravado, agrupado automaticamente e encontra-se disponível para ser faturado pelo SI fonte;
+* **Alterado SI** - Quando um episódio se encontra no estado "Alterado SI" significa que existiu uma alteração no Sistema de Informação Fonte (sistema de onde provêm os dados dos episódios) que tem impacto no SIMH. Quando estas alterações são detetadas e o episódio se encontrar no estado "Em Auditoria" ou "Finalizado", este será desagrupado e passado para este estado;
 * **Fechado** - O episódio foi faturado e já não pode ser alterado ;
  
 Este fluxo de estados pode ser consultado a partir da [](#figEstadosCodificacaoEpisodio).
