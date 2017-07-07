@@ -160,43 +160,8 @@ O utilizador pode sair do sistema a qualquer momento, bastando para isso clicar 
 
 O menu principal irá apresentar-se ao utilizador de acordo com o perfil que este tem associado à sua conta. É possível, na imagem seguinte, consultar os acessos que cada perfil tem na aplicação.
 
-![figPerfisPermissoes](img/perfispermissoes.png)
-<p class="caption" id="figPerfisPermissoes">Permissões vs Perfis</p>
-
-
-Na tabela está feito o mapeamento entre os números presentes na figura e as respectivas funcionalidades:
-
-|    	| Descrições 								|
-|-------|-------------------------------------------|
-|**Nº**	|**Titulo**									|
-|1		|Finalizar Urgente							|
-|2		|Alteração da Senha							|
-|3		|Codificação do Episódio					|
-|4		|Codificação do Episódio Auditar			|
-|5		|Codificação do Episódio Finalizar			|
-|6		|Codificação do Episódio Gravar Rascunho	|
-|7		|Codificação do Episódio Não Codificar		|
-|8		|Episódios									|
-|9		|Detalhe do Episódio						|
-|10		|Não Codificavel							|
-|11		|Criar Mapeamento							|
-|12		|Editar Mapeamento							|
-|13		|Mapeamentos								|
-|14		|Remover Mapeamento							|
-|15		|Cria Médico Codificador					|
-|16		|Editar Médico Codificador					|
-|17		|Médicos Codificadores						|
-|18		|Remover Médico Codificador					|
-|19		|Simulador de codificação em ICD 10			|
-|20		|Editar Estado do Utilizador				|
-|21		|Criar Utilizador							|
-|22		|Editar Utilizador							|
-|23		|Gestão Utilizadores						|
-|24		|Remover Utilizador							|
-|25		|Auditoria									|
-|26		|Botão de Imprimir em vários módulos		|
-|27		|Acções em Bloco							|
-
+![figperfis](img/perfis.png)
+<p class="caption" id="figperfis">Permissões vs Perfis</p>
 
 O utilizador poderá ter apenas acesso parcial a uma funcionalidade, por exemplo, ter acesso ao módulo de Episódios, mas não poder finalizar os mesmos.
 
