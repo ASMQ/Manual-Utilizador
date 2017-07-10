@@ -160,19 +160,20 @@ O utilizador pode sair do sistema a qualquer momento, bastando para isso clicar 
 
 O menu principal irá apresentar-se ao utilizador de acordo com o perfil que este tem associado à sua conta. É possível, na imagem seguinte, consultar os acessos que cada perfil tem na aplicação.
 
-<table style="height: 100px;" width="1500">
+<table class="fixo" table-layout=fixed>
+         <tr>
 <tbody>
 <tr style="text-align: center;">
-<td style="width: 60px;">
+<td width="400px">
 <p style="padding-left: 60px; text-align: right;"><strong>Perfil</strong></p>
 <p style="text-align: left;"><strong>Permiss&otilde;es</strong></p>
 </td>
-<td style="width: 1px;"><strong>Administrativo</strong></td>
-<td style="width: 90px;"><strong>Administrador da Entidade</strong></td>
-<td style="width: 110px;"><strong>Administrador Administrativo</strong></td>
-<td style="width: 130px;"><strong>M&eacute;dico codificador que n&atilde;o finaliza</strong></td>
-<td style="width: 60px;"><strong>M&eacute;dico codificador</strong></td>
-<td style="width: 110px;"><strong>Administrador M&eacute;dico Codificador</strong></td>
+<td><strong>Administrativo</strong></td>
+<td><strong>Administrador da Entidade</strong></td>
+<td><strong>Administrador Administrativo</strong></td>
+<td><strong>M&eacute;dico codificador que n&atilde;o finaliza</strong></td>
+<td><strong>M&eacute;dico codificador</strong></td>
+<td ><strong>Administrador M&eacute;dico Codificador</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;">A&ccedil;&otilde;es em Bloco</td>
