@@ -167,12 +167,12 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <p style="padding-left: 60px; text-align: right;"><strong>Perfil</strong></p>
 <p style="text-align: left;"><strong>Permiss&otilde;es</strong></p>
 </td>
-<td width=10%><strong>Administrativo</strong></td>
-<td width=15%><strong>Administrador da Entidade</strong></td>
-<td width=15%><strong>Administrador Administrativo</strong></td>
-<td width=20%><strong>M&eacute;dico Codificador que n&atilde;o Finaliza</strong></td>
-<td width=10%><strong>M&eacute;dico Codificador</strong></td>
-<td width=10%><strong>Administrador M&eacute;dico Codificador</strong></td>
+<td width="10%"><strong>Administrativo</strong></td>
+<td width="15%"><strong>Administrador da Entidade</strong></td>
+<td width="15%"><strong>Administrador Administrativo</strong></td>
+<td width="20%"><strong>M&eacute;dico Codificador que n&atilde;o Finaliza</strong></td>
+<td width="10%"><strong>M&eacute;dico Codificador</strong></td>
+<td width="10%"><strong>Administrador M&eacute;dico Codificador</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;">A&ccedil;&otilde;es em Bloco</td>
