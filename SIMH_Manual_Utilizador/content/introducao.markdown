@@ -160,7 +160,328 @@ O utilizador pode sair do sistema a qualquer momento, bastando para isso clicar 
 
 O menu principal irá apresentar-se ao utilizador de acordo com o perfil que este tem associado à sua conta. É possível, na imagem seguinte, consultar os acessos que cada perfil tem na aplicação.
 
-![figperfis](img/perfis.png)
+<table style="height: 100px;" width="1500">
+<tbody>
+<tr style="text-align: center;">
+<td style="width: 60px;">
+<p style="padding-left: 60px; text-align: right;"><strong>Perfil</strong></p>
+<p style="text-align: left;"><strong>Permiss&otilde;es</strong></p>
+</td>
+<td style="width: 1px;"><strong>Administrativo</strong></td>
+<td style="width: 90px;"><strong>Administrador da Entidade</strong></td>
+<td style="width: 110px;"><strong>Administrador Administrativo</strong></td>
+<td style="width: 130px;"><strong>M&eacute;dico codificador que n&atilde;o finaliza</strong></td>
+<td style="width: 60px;"><strong>M&eacute;dico codificador</strong></td>
+<td style="width: 110px;"><strong>Administrador M&eacute;dico Codificador</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">A&ccedil;&otilde;es em Bloco</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Associa&ccedil;&atilde;o em Bloco</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Altera&ccedil;&atilde;o da Senha</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Processos A&ccedil;&atilde;o em Bloco</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Auditoria</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Codifica&ccedil;&atilde;o do Epis&oacute;dio</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Codifica&ccedil;&atilde;o do Epis&oacute;dio Auditar</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Codifica&ccedil;&atilde;o do Epis&oacute;dio Finalizar</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Codifica&ccedil;&atilde;o do Epis&oacute;dio Gravar Rascunho</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Codifica&ccedil;&atilde;o do Epis&oacute;dio N&atilde;o Codificar</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Epis&oacute;dios &nbsp; &nbsp; &nbsp;</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Consultar Processos de Codifica&ccedil;&atilde;o</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Detalhe do Epis&oacute;dio</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Gerir Processo de Codifica&ccedil;&atilde;o</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Processos de Codifica&ccedil;&atilde;o &nbsp; &nbsp;&nbsp;</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Impress&otilde;es de Epis&oacute;dios</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">N&atilde;o Codificavel</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Relat&oacute;rios</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Simulador</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Criar Mapeamento</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Editar Mapeamento</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Mapeamentos</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Remover Mapeamento &nbsp; &nbsp; &nbsp;</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Criar M&eacute;dico Codificador</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Editar M&eacute;dico Codificador</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">M&eacute;dicos Codificadores</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Remover M&eacute;dico Codificador</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Editar Estado do Utilizador</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Detalhe do Utilizador</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Criar Utilizador</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Editar Utilizador</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Gest&atilde;o Utilizadores</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Remover Utilizador</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">Finalizar Urgente</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+</tbody>
+</table>
 <p class="caption" id="figperfis">Permissões vs Perfis</p>
 
 O utilizador poderá ter apenas acesso parcial a uma funcionalidade, por exemplo, ter acesso ao módulo de Episódios, mas não poder finalizar os mesmos.
