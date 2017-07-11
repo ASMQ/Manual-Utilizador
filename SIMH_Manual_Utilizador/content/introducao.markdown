@@ -413,9 +413,9 @@ Após clicar em **Alterar Password** é apresentada uma página de alteração d
 
 <p class="caption" id="figAlteraSenha"> Página de alteração de senha </p>
 
-O utilizador deverá preencher os seguintes campos obrigatórios:
+O utilizador deverá preencher os seguintes campos obrigatórios:  
 
-|    |  Campos Obrigatórios [](#figAlteraSenha)  |           
+|    |  Campos Obrigatórios [](#figAlteraSenha)     |           
 |----|----------------------------------------------|
 | a) |  senha utilizada atualmente            		| 
 | b) |  nova senha pretendida                 		|  
