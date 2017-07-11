@@ -396,6 +396,165 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 
+* _Módulo Mapeamento_ 
+
+<table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
+<tbody>
+<tr style="text-align: center;">
+<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130)">
+<p style="padding-left: 30px; text-align: right;"><strong>Perfil</strong></p>
+<p style="text-align: left;"><strong>Permiss&otilde;es</strong></p>
+</td>
+<td><strong>Administrativo</strong></td>
+<td><strong>Administrador da Entidade</strong></td>
+<td><strong>Administrador Administrativo</strong></td>
+<td><strong>M&eacute;dico Codificador que n&atilde;o Finaliza</strong></td>
+<td><strong>M&eacute;dico Codificador</strong></td>
+<td><strong>Administrador M&eacute;dico Codificador</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;padding-left: 0px;">Criar Mapeamento</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;padding-left: 0px;">Editar Mapeamento</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;padding-left: 0px;">Remover Mapeamento &nbsp; &nbsp; &nbsp;</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;padding-left: 0px;">Mapeamentos</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+
+
+* _Módulo Gestão de Utilizadores_ 
+
+<table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
+<tbody>
+<tr style="text-align: center;">
+<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130)">
+<p style="padding-left: 30px; text-align: right;"><strong>Perfil</strong></p>
+<p style="text-align: left;"><strong>Permiss&otilde;es</strong></p>
+</td>
+<td><strong>Administrativo</strong></td>
+<td><strong>Administrador da Entidade</strong></td>
+<td><strong>Administrador Administrativo</strong></td>
+<td><strong>M&eacute;dico Codificador que n&atilde;o Finaliza</strong></td>
+<td><strong>M&eacute;dico Codificador</strong></td>
+<td><strong>Administrador M&eacute;dico Codificador</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;padding-left: 0px;">Criar M&eacute;dico Codificador</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;padding-left: 0px;">Editar M&eacute;dico Codificador</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;padding-left: 0px;">Remover M&eacute;dico Codificador</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;padding-left: 0px;">M&eacute;dicos Codificadores</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;padding-left: 0px;">Criar Utilizador</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;padding-left: 0px;">Editar Utilizador</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;padding-left: 0px;">Remover Utilizador</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;padding-left: 0px;">Detalhe do Utilizador</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center;padding-left: 0px;">Editar Estado do Utilizador</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr> <td style="text-align: center;padding-left: 0px;">Gest&atilde;o Utilizadores</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr> 
 
 
 O utilizador poderá ter apenas acesso parcial a uma funcionalidade, por exemplo, ter acesso ao módulo de Episódios, mas não poder finalizar os mesmos.  
