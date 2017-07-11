@@ -300,7 +300,8 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </tr>
 <tr>
 </tbody>
-</table>
+</table>  
+
 
 * _Módulo Codificação de Episódios_ 
 
