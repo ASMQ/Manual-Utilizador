@@ -167,7 +167,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <tbody>
 <tr style="text-align: center;">
 <td style="border-bottom: none; border-right: none; border-left: 1pt solid #005082;">
-<p style="padding-left: 30px; text-align: right;font-size: 80%;"><strong>Perfil</strong></p>
+<p style="padding-left: 30px; text-align: right;font-size: 50%;"><strong>Perfil</strong></p>
 <p style="text-align: left;font-size: 80%;"><strong>Permiss&otilde;es</strong></p>
 </td>
 <td><strong>Administrativo</strong></td>
@@ -250,7 +250,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 </tbody>
-</table>
+</table>   
 
 
 * _Módulo Ações em Bloco_
