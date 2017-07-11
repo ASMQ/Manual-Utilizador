@@ -161,7 +161,7 @@ O utilizador pode sair do sistema a qualquer momento, bastando para isso clicar 
 O menu principal irá apresentar-se ao utilizador de acordo com o perfil que este tem associado à sua conta. É possível, nas tabelas seguintes que se encontram organizadas por diferentes módulos, consultar os acessos que cada perfil tem na aplicação.
 
 
-* *__Módulo Introdução__* 
+* _Módulo Introdução__ 
 
 <table style="table-layout: fixed; width: 95%; font-size: 80%; margin-left: 10px;">
 <tbody>
@@ -253,6 +253,8 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </table>
 
 
+
+
 * __Módulo Ações em Bloco__ 
 
 <table style="table-layout: fixed; width: 95%; font-size: 80%; margin-left: 10px;">
@@ -301,7 +303,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </table>
 
 
-* *__Módulo Codificação de Episódios_* 
+* __Módulo Codificação de Episódios__ 
 
 <table style="table-layout: fixed; width: 95%; font-size: 80%; margin-left: 10px;">
 <tbody>
