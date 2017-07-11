@@ -167,8 +167,8 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <tbody>
 <tr style="text-align: center;">
 <td style="border-bottom: none; border-right: none; border-left: 1pt solid #005082;">
-<p style="padding-left: 30px; text-align: right;"><strong>Perfil</strong></p>
-<p style="text-align: left;"><strong>Permiss&otilde;es</strong></p>
+<p style="padding-left: 30px; text-align: right;font-size: 80%;"><strong>Perfil</strong></p>
+<p style="text-align: left;font-size: 80%;"><strong>Permiss&otilde;es</strong></p>
 </td>
 <td><strong>Administrativo</strong></td>
 <td><strong>Administrador da Entidade</strong></td>
@@ -252,7 +252,8 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </tbody>
 </table>
 
-* *__Módulo Ações em Bloco__* 
+
+* __Módulo Ações em Bloco__ 
 
 <table style="table-layout: fixed; width: 95%; font-size: 80%; margin-left: 10px;">
 <tbody>
@@ -298,6 +299,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <tr>
 </tbody>
 </table>
+
 
 * *__Módulo Codificação de Episódios_* 
 
@@ -404,6 +406,8 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 O utilizador poderá ter apenas acesso parcial a uma funcionalidade, por exemplo, ter acesso ao módulo de Episódios, mas não poder finalizar os mesmos.
 
 <div id="alteraPassword"></div>
+
+
 
 ## 4.3. Alteração da senha
 
