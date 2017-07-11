@@ -252,6 +252,8 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </tbody>
 </table>   
 
+</br>
+
 
 * _Módulo Ações em Bloco_
 
