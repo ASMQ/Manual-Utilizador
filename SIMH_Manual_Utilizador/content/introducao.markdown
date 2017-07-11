@@ -248,10 +248,8 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-</tr>
+</tr>  
   
-
-
 
 * _Módulo Ações em Bloco_
 
@@ -295,7 +293,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-</tr>
+</tr>  
  
 
 * _Módulo Codificação de Episódios_ 
@@ -394,7 +392,8 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-</tr>
+</tr>  
+
 
 * _Módulo Mapeamento_ 
 
@@ -447,7 +446,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-</tr>
+</tr>  
 
 
 * _Módulo Gestão de Utilizadores_ 
@@ -554,12 +553,14 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-</tr> 
+</tr>   
 
 
-O utilizador poderá ter apenas acesso parcial a uma funcionalidade, por exemplo, ter acesso ao módulo de Episódios, mas não poder finalizar os mesmos.  
+O utilizador poderá ter apenas acesso parcial a uma funcionalidade, por exemplo, ter acesso ao módulo de Episódios, mas não poder finalizar os mesmos.    
 
-<div id="alteraPassword"></div>
+<div id="alteraPassword"></div>  
+
+
 
 
 
