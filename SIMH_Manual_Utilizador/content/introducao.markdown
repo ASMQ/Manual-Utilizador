@@ -398,7 +398,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 
 
 
-O utilizador poderá ter apenas acesso parcial a uma funcionalidade, por exemplo, ter acesso ao módulo de Episódios, mas não poder finalizar os mesmos.
+O utilizador poderá ter apenas acesso parcial a uma funcionalidade, por exemplo, ter acesso ao módulo de Episódios, mas não poder finalizar os mesmos.  
 
 <div id="alteraPassword"></div>
 
