@@ -253,7 +253,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </table>
 
 
-* __Módulo Ações em Bloco__ 
+* _Módulo Ações em Bloco_
 
 <table style="table-layout: fixed; width: 95%; font-size: 80%; margin-left: 10px;">
 <tbody>
@@ -300,7 +300,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </tbody>
 </table>
 
-* __Módulo Codificação de Episódios__ 
+* _Módulo Codificação de Episódios_ 
 
 <table style="table-layout: fixed; width: 95%; font-size: 80%; margin-left: 10px;">
 <tbody>
