@@ -161,7 +161,7 @@ O utilizador pode sair do sistema a qualquer momento, bastando para isso clicar 
 O menu principal irá apresentar-se ao utilizador de acordo com o perfil que este tem associado à sua conta. É possível, nas tabelas seguintes que se encontram organizadas por diferentes módulos, consultar os acessos que cada perfil tem na aplicação.
 
 
-*_Módulo Introdução_
+* _Módulo Introdução_
 
 <table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
 <tbody>
@@ -249,10 +249,10 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>    
- 
+</tbody>
+</table>
 
-
-*_Módulo Ações em Bloco_
+* _Módulo Ações em Bloco_
 
 <table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
 <tbody>
@@ -295,9 +295,10 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>   
- 
+</tbody>
+</table>
 
-*_Módulo Codificação de Episódios_ 
+* _Módulo Codificação de Episódios_ 
 
 
 <table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
@@ -395,9 +396,10 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>  
+</tbody>
+</table> 
 
-
-*_Módulo Mapeamento_ 
+* _Módulo Mapeamento_ 
 
 <table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
 <tbody>
@@ -449,9 +451,10 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>   
+</tbody>
+</table> 
 
-
-*_Módulo Gestão de Utilizadores_ 
+* _Módulo Gestão de Utilizadores_ 
 
 <table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
 <tbody>
