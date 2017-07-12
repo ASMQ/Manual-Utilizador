@@ -164,20 +164,19 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 * <u>Módulo Introdução</u>
 
 <table  class="tabelaPermissao">
-<thead>
+<tbody>
 <tr style="text-align: center;">
 <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130)">
 <p style="padding-left: 30px; text-align: right;"><strong>Perfil</strong></p>
 <p style="text-align: left;"><strong>Permiss&otilde;es</strong></p>
 </td>
-<th><strong>Administrativo</strong></th>
-<th><strong>Administrador da Entidade</strong></th>
-<th><strong>Administrador Administrativo</strong></th>
-<th><strong>M&eacute;dico Codificador que n&atilde;o Finaliza</strong></th>
-<th><strong>M&eacute;dico Codificador</strong></th>
-<th><strong>Administrador M&eacute;dico Codificador</strong></th>
-</tr></thead>
-<tbody>
+<td><strong>Administrativo</strong></td>
+<td><strong>Administrador da Entidade</strong></td>
+<td><strong>Administrador Administrativo</strong></td>
+<td><strong>M&eacute;dico Codificador que n&atilde;o Finaliza</strong></td>
+<td><strong>M&eacute;dico Codificador</strong></td>
+<td><strong>Administrador M&eacute;dico Codificador</strong></td>
+</tr>
 <tr>
 <td style="text-align: center; padding-left: 0px;">Alteração da Senha</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
