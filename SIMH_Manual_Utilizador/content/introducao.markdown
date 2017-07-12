@@ -168,7 +168,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <tr style="text-align: center;">
 <td style="border-bottom: none; border-right: none; border-left: 1pt solid #005082;">
 <p style="padding-left: 30px; text-align: right;font-size: 50%;"><strong>Perfil</strong></p>
-<p style="text-align: left;font-size: 80%;"><strong>Permiss&otilde;es</strong></p>
+<p style="text-align: left;font-size: 50%;"><strong>Permiss&otilde;es</strong></p>
 </td>
 <td><strong>Administrativo</strong></td>
 <td><strong>Administrador da Entidade</strong></td>
