@@ -163,7 +163,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 
 * <u>Módulo Introdução</u>
 
-<table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
+<table  class="tabelaPermissao">
 <tbody>
 <tr style="text-align: center;">
 <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130)">
@@ -178,7 +178,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td><strong>Administrador M&eacute;dico Codificador</strong></td>
 </tr>
 <tr>
-<td style="text-align: center; padding-left: 0px;">Altera&ccedil;&atilde;o da Senha</td>
+<td style="text-align: center; padding-left: 0px;">Alteração da Senha</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
