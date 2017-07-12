@@ -257,13 +257,7 @@ border-left: solid black 0.5pt;
 padding: 0cm 5.4pt 0cm 5.4pt;
 }
 
-table.tabelaPermissao{
-	table-layout:fixed;
-	width:1800;
-	font-size: 80%;
-	margin-left: 10px;
-	width: 95%;
-}
+
 
 
 
@@ -459,6 +453,15 @@ p.faq{
 /** Indice **/
 #indice a , #indice nav li div{
 	text-align: left;
+}
+/** Personalização da tabela de perfis e permissões **/
+
+table.tabelaPermissao{
+	table-layout:fixed;
+	width:1800;
+	font-size: 80%;
+	margin-left: 10px;
+	width: 95%;
 }
 
 
