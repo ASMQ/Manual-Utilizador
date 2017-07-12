@@ -29,7 +29,7 @@ Para uma filtragem de epósdios mais restrita, o utilizador poderá realizar uma
 
 ![figlistagemdiagnostico](img/listagemdiagnostico.png) 
 
-<p class="caption" id="figAcessoImprimir">Exemplo de obtenção de uma listagem de episódios por código de diagnóstico</p>
+<p class="caption" id="figlistagemdiagnostico">Exemplo de obtenção de uma listagem de episódios por código de diagnóstico</p>
 
 
 
