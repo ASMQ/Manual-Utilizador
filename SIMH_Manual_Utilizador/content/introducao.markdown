@@ -161,14 +161,14 @@ O utilizador pode sair do sistema a qualquer momento, bastando para isso clicar 
 O menu principal irá apresentar-se ao utilizador de acordo com o perfil que este tem associado à sua conta. É possível, nas tabelas seguintes que se encontram organizadas por diferentes módulos, consultar os acessos que cada perfil tem na aplicação.
 
 
-* _Módulo Introdução_
+*_Módulo Introdução_
 
 <table style="table-layout: fixed; width: 95%; font-size: 50%; margin-left: 10px;">
 <tbody>
 <tr style="text-align: center;">
 <td style="border-bottom: none; border-right: none; border-left: 1pt solid #005082;">
-<p style="padding-left: 30px; text-align: right;font-size: 50%;"><strong>Perfil</strong></p>
-<p style="text-align: left;font-size: 50%;"><strong>Permiss&otilde;es</strong></p>
+<p style="padding-left: 30px; text-align: right;"><strong>Perfil</strong></p>
+<p style="text-align: left;"><strong>Permiss&otilde;es</strong></p>
 </td>
 <td><strong>Administrativo</strong></td>
 <td><strong>Administrador da Entidade</strong></td>
@@ -248,10 +248,10 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-</tr>  
+</tr>    
   
 
-* _Módulo Ações em Bloco_
+*_Módulo Ações em Bloco_
 
 <table style="table-layout: fixed; width: 95%; font-size: 80%; margin-left: 10px;">
 <tbody>
@@ -293,10 +293,10 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-</tr>  
+</tr>   
  
 
-* _Módulo Codificação de Episódios_ 
+*_Módulo Codificação de Episódios_ 
 
 <table style="table-layout: fixed; width: 95%; font-size: 80%; margin-left: 10px;">
 <tbody>
@@ -395,7 +395,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </tr>  
 
 
-* _Módulo Mapeamento_ 
+*_Módulo Mapeamento_ 
 
 <table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
 <tbody>
@@ -446,10 +446,10 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-</tr>  
+</tr>   
 
 
-* _Módulo Gestão de Utilizadores_ 
+*_Módulo Gestão de Utilizadores_ 
 
 <table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
 <tbody>
