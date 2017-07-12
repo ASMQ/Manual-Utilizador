@@ -254,7 +254,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 
 * <u>Módulo Ações em Bloco</u>
 
-<table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
+<table class="tabelaPermissao">
 <tbody>
 <tr style="text-align: center;">
 <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130)">
@@ -301,7 +301,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 * <u>Módulo Codificação de Episódios</u> 
 
 
-<table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
+<table  class="tabelaPermissao">
 <tbody>
 <tr style="text-align: center;">
 <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130)">
@@ -401,7 +401,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 
 * <u>Módulo Mapeamento</u>  
 
-<table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
+<table class="tabelaPermissao">
 <tbody>
 <tr style="text-align: center;">
 <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130)">
@@ -456,7 +456,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 
 * <u>Módulo Gestão de Utilizadores</u>  
 
-<table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
+<table class="tabelaPermissao">
 <tbody>
 <tr style="text-align: center;">
 <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130)">
