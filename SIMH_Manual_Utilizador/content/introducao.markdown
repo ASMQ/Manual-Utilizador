@@ -163,7 +163,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 
 * _Módulo Introdução_
 
-<table style="table-layout: fixed; width: 95%; font-size: 80%; margin-left: 10px;">
+<table style="table-layout: fixed; width: 95%; font-size: 50%; margin-left: 10px;">
 <tbody>
 <tr style="text-align: center;">
 <td style="border-bottom: none; border-right: none; border-left: 1pt solid #005082;">
