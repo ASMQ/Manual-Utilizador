@@ -161,7 +161,7 @@ O utilizador pode sair do sistema a qualquer momento, bastando para isso clicar 
 O menu principal irá apresentar-se ao utilizador de acordo com o perfil que este tem associado à sua conta. É possível, nas tabelas seguintes que se encontram organizadas por diferentes módulos, consultar os acessos que cada perfil tem na aplicação.
 
 
-* <u>Módulo Introdução</u>
+*<u>Módulo Introdução</u>
 
 <table  class="tabelaPermissao">
 <tbody>
@@ -196,7 +196,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
-<td style="text-align: middle; padding-left: 0px;">Epis&oacute;dios &nbsp; &nbsp; &nbsp;</td>
+<td style="text-align: middle; padding-left: 0px;">Episódios;</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -205,7 +205,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
-<td style="text-align: middle; padding-left: 0px;">Detalhe do Epis&oacute;dio</td>
+<td style="text-align: middle; padding-left: 0px;">Detalhe do Episódio</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -214,7 +214,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
-<td style="text-align: middle; padding-left: 0px;">Impress&otilde;es de Epis&oacute;dios</td>
+<td style="text-align: middle; padding-left: 0px;">Impressões de Episódios</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -223,7 +223,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
-<td style="text-align: middle; padding-left: 0px;">Relat&oacute;rios</td>
+<td style="text-align: middle; padding-left: 0px;">Relatórios</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -252,7 +252,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </tbody>
 </table>
 
-* <u>Módulo Ações em Bloco</u>
+*<u>Módulo Ações em Bloco</u>
 
 <table class="tabelaPermissao">
 <tbody>
@@ -269,7 +269,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td><strong>Administrador M&eacute;dico Codificador</strong></td>
 </tr>
 <tr>
-<td style="text-align: center; padding-left: 0px;">A&ccedil;&otilde;es em Bloco</td>
+<td style="text-align: center; padding-left: 0px;">Ações em Bloco</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -278,7 +278,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
-<td style="text-align: center; padding-left: 0px;">Associa&ccedil;&atilde;o em Bloco</td>
+<td style="text-align: center; padding-left: 0px;">Associação em Bloco</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -287,7 +287,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
-<td style="text-align: center; padding-left: 0px;">Processos A&ccedil;&atilde;o em Bloco</td>
+<td style="text-align: center; padding-left: 0px;">Processos Ação em Bloco</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -298,7 +298,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </tbody>
 </table>
 
-* <u>Módulo Codificação de Episódios</u> 
+*<u>Módulo Codificação de Episódios</u> 
 
 
 <table  class="tabelaPermissao">
@@ -316,7 +316,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td><strong>Administrador M&eacute;dico Codificador</strong></td>
 </tr>
 <tr>
-<td style="text-align: center; padding-left: 0px;">Codifica&ccedil;&atilde;o do Epis&oacute;dio</td>
+<td style="text-align: center; padding-left: 0px;">Codificação do Episódio</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -325,7 +325,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
-<td style="text-align: center; padding-left: 0px;">Codifica&ccedil;&atilde;o do Epis&oacute;dio Auditar</td>
+<td style="text-align: center; padding-left: 0px;">Codificação do Episódio Auditar</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -334,7 +334,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
-<td style="text-align: center; padding-left: 0px;">Codifica&ccedil;&atilde;o do Epis&oacute;dio Finalizar</td>
+<td style="text-align: center; padding-left: 0px;">Codificação do Episódio Finalizar</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -343,7 +343,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
-<td style="text-align: center; padding-left: 0px;">Codifica&ccedil;&atilde;o do Epis&oacute;dio Gravar Rascunho</td>
+<td style="text-align: center; padding-left: 0px;">Codificação do Episódio Gravar Rascunho</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -352,7 +352,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
-<td style="text-align: center; padding-left: 0px;">Codifica&ccedil;&atilde;o do Epis&oacute;dio N&atilde;o Codificar</td>
+<td style="text-align: center; padding-left: 0px;">Codificação do Episódio Não Codificar</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -361,7 +361,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
-<td style="text-align: center; padding-left: 0px;">Consultar Processos de Codifica&ccedil;&atilde;o</td>
+<td style="text-align: center; padding-left: 0px;">Consultar Processos de Codificação</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -370,7 +370,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 </tr>
 <tr>
-<td style="text-align: center; padding-left: 0px;">Gerir Processo de Codifica&ccedil;&atilde;o</td>
+<td style="text-align: center; padding-left: 0px;">Gerir Processo de Codificação</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -379,7 +379,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 </tr>
 <tr>
-<td style="text-align: center; padding-left: 0px;">Processos de Codifica&ccedil;&atilde;o &nbsp; &nbsp;&nbsp;</td>
+<td style="text-align: center; padding-left: 0px;">Processos de Codificação</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -388,7 +388,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 </tr>
 <tr>
-<td style="text-align: center;padding-left: 0px;">N&atilde;o Codificavel</td>
+<td style="text-align: center;padding-left: 0px;">Não Codificável</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -434,7 +434,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
-<td style="text-align: center;padding-left: 0px;">Remover Mapeamento &nbsp; &nbsp; &nbsp;</td>
+<td style="text-align: center;padding-left: 0px;">Remover Mapeamento</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -471,7 +471,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td><strong>Administrador M&eacute;dico Codificador</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;padding-left: 0px;">Criar M&eacute;dico Codificador</td>
+<td style="text-align: center;padding-left: 0px;">Criar Médico Codificador</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -480,7 +480,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
-<td style="text-align: center;padding-left: 0px;">Editar M&eacute;dico Codificador</td>
+<td style="text-align: center;padding-left: 0px;">Editar Médico Codificador</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -489,7 +489,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
-<td style="text-align: center;padding-left: 0px;">Remover M&eacute;dico Codificador</td>
+<td style="text-align: center;padding-left: 0px;">Remover Médico Codificador</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -498,7 +498,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
-<td style="text-align: center;padding-left: 0px;">M&eacute;dicos Codificadores</td>
+<td style="text-align: center;padding-left: 0px;">Médicos Codificadores</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -551,7 +551,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
-<tr> <td style="text-align: center;padding-left: 0px;">Gest&atilde;o Utilizadores</td>
+<tr> <td style="text-align: center;padding-left: 0px;">Gestão Utilizadores</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
