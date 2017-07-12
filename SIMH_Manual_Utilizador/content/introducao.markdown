@@ -161,7 +161,7 @@ O utilizador pode sair do sistema a qualquer momento, bastando para isso clicar 
 O menu principal irá apresentar-se ao utilizador de acordo com o perfil que este tem associado à sua conta. É possível, nas tabelas seguintes que se encontram organizadas por diferentes módulos, consultar os acessos que cada perfil tem na aplicação.
 
 
-* _Módulo Introdukão_
+* <u>Módulo Introdução</u>
 
 <table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
 <tbody>
