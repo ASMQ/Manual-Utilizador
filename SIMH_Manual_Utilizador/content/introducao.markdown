@@ -563,8 +563,7 @@ O utilizador poderá ter apenas acesso parcial a uma funcionalidade, por exemplo
 <div id="alteraPassword"></div>  
 
 
-
-
+---  
 
 ## 4.3. Alteração da senha
 
