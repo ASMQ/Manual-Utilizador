@@ -464,6 +464,12 @@ table.tabelaPermissao{
 	width: 95%;
 }
 
+table.tabelaPermissao td {
+	vertical-align: middle;	
+}
+
+
+
 
 
 /* ==|== media queries ======================================================
