@@ -556,12 +556,12 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>   
-
+</tbody>
+</table>  
 
 O utilizador poderá ter apenas acesso parcial a uma funcionalidade, por exemplo, ter acesso ao módulo de Episódios, mas não poder finalizar os mesmos.    
 
 <div id="alteraPassword"></div>  
-
 
 ---  
 
