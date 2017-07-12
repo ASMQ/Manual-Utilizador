@@ -161,7 +161,7 @@ O utilizador pode sair do sistema a qualquer momento, bastando para isso clicar 
 O menu principal irá apresentar-se ao utilizador de acordo com o perfil que este tem associado à sua conta. É possível, nas tabelas seguintes que se encontram organizadas por diferentes módulos, consultar os acessos que cada perfil tem na aplicação.
 
 
-*<u>Módulo Introdução</u>
+* <u>Módulo Introdução</u>
 
 <table  class="tabelaPermissao">
 <tbody>
@@ -298,7 +298,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </tbody>
 </table>
 
-*<u>Módulo Codificação de Episódios</u> 
+* <u>Módulo Codificação de Episódios</u> 
 
 
 <table  class="tabelaPermissao">
