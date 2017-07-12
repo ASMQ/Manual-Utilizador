@@ -252,7 +252,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </tbody>
 </table>
 
-* _Módulo Ações em Bloco_
+* <u>Módulo Ações em Bloco</u>
 
 <table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
 <tbody>
@@ -298,7 +298,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </tbody>
 </table>
 
-* _Módulo Codificação de Episódios_ 
+* <u>Módulo Codificação de Episódios</u> 
 
 
 <table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
@@ -399,7 +399,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </tbody>
 </table> 
 
-* _Módulo Mapeamento_ 
+* <u>Módulo Mapeamento</u>  
 
 <table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
 <tbody>
@@ -454,7 +454,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </tbody>
 </table> 
 
-* _Módulo Gestão de Utilizadores_ 
+* <u>Módulo Gestão de Utilizadores</u>  
 
 <table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
 <tbody>
