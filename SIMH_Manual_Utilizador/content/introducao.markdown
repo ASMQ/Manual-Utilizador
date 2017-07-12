@@ -163,10 +163,10 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 
 *_Módulo Introdução_
 
-<table style="table-layout: fixed; width: 95%; font-size: 50%; margin-left: 10px;">
+<table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
 <tbody>
 <tr style="text-align: center;">
-<td style="border-bottom: none; border-right: none; border-left: 1pt solid #005082;">
+<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130)">
 <p style="padding-left: 30px; text-align: right;"><strong>Perfil</strong></p>
 <p style="text-align: left;"><strong>Permiss&otilde;es</strong></p>
 </td>
@@ -253,10 +253,10 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 
 *_Módulo Ações em Bloco_
 
-<table style="table-layout: fixed; width: 95%; font-size: 80%; margin-left: 10px;">
+<table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
 <tbody>
 <tr style="text-align: center;">
-<td style="border-bottom: none; border-right: none; border-left: 1pt solid #005082;">
+<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130)">
 <p style="padding-left: 30px; text-align: right;"><strong>Perfil</strong></p>
 <p style="text-align: left;"><strong>Permiss&otilde;es</strong></p>
 </td>
@@ -298,10 +298,11 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 
 *_Módulo Codificação de Episódios_ 
 
-<table style="table-layout: fixed; width: 95%; font-size: 80%; margin-left: 10px;">
+
+<table  style="table-layout:fixed;width:1800;font-size: 80%;margin-left: 10px;width: 95%;">
 <tbody>
 <tr style="text-align: center;">
-<td style="border-bottom: none; border-right: none; border-left: 1pt solid #005082;">
+<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130)">
 <p style="padding-left: 30px; text-align: right;"><strong>Perfil</strong></p>
 <p style="text-align: left;"><strong>Permiss&otilde;es</strong></p>
 </td>
