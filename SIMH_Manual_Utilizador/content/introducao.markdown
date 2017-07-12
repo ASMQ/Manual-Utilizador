@@ -252,7 +252,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </tbody>
 </table>
 
-*<u>Módulo Ações em Bloco</u>
+* <u>Módulo Ações em Bloco</u>
 
 <table class="tabelaPermissao">
 <tbody>
