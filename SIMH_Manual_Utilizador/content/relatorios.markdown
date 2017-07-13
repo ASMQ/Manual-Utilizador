@@ -32,6 +32,5 @@ Para uma filtragem de episódios mais restrita, o utilizador poderá realizar um
 <p class="caption" id="figlistagemdiagnostico">Exemplo de obtenção de uma listagem de episódios por código de diagnóstico</p>
 
 
-([6.1. Pesquisa de episódios por codificar](#pesquisa-de-episodios-por-codificar))
 
 
