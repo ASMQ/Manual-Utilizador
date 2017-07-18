@@ -26,9 +26,9 @@ Uma vez selecionado o módulo será enviado para o seguinte ecrã:
 
 Depois de realizada a pesquisa, os resultados apresentam-se da seguinte maneira:
 
-![figResultadosAuditoria](img/pages/13_3.jpg)
+![figepisodiosauditoria](img/pages/episodiosauditoria.png)
 
-<p class="caption" id="figResultadosAuditoria">Exemplo de Resultados obtidos na pesquisa</p>
+<p class="caption" id="figepisodiosauditoria">Exemplo de Resultados obtidos na pesquisa</p>
 
 Atualmente, temos as seguintes possibilidades no filtro dos alertas:
 
