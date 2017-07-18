@@ -36,7 +36,7 @@ Atualmente, temos as seguintes possibilidades no filtro dos alertas:
 * **Selecionar um alerta:** aparecem todos os episódios com o alerta selecionado, que estejam no estado “Em Auditoria”;
 * **Selecionar a opção "Todos":** aparecem todos os episódios com pelo menos um alerta, que estejam no estado “Em Auditoria”.
 
-**Para que o utilizador possa consultar os detalhes de um episódio deverá selecionar um episódio da lista aaaaaaaaaaaaaaa.**
+**Para que o utilizador possa consultar os detalhes de um episódio deverá selecionar um episódio da lista.**
 
 <div id="consultarAuditoria"></div>
 
