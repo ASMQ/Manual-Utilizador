@@ -9,7 +9,7 @@ title: "Auditoria"
 
 # 12. Auditoria
 
-O módulo auditoria permite consultar os detalhes dos episódios no estado "em auditoria", bem como gerar relatórios em PDF com os episódios em auditoria. 
+O módulo auditoria permite consultar os detalhes dos episódios no estado "Em Auditoria", bem como gerar relatórios em PDF com os episódios em auditoria. 
 Sendo que os médicos codificadores apenas conseguem ver os seus episódios no estado "Em Auditoria", os médicos auditores e administrativos conseguem ver os episódios todos que estão no estado "Em Auditoria"
 
 Uma vez na página inicial, o utilizador deverá selecionar o botão "Auditoria" como demonstrado na seguinte figura:
@@ -32,9 +32,9 @@ Depois de realizada a pesquisa, os resultados apresentam-se da seguinte maneira:
 
 Atualmente, temos as seguintes possibilidades no filtro dos alertas:
 
-	* **Não selecionar nada no filtro dos alertas:** aparecem todos os episódios, com e sem alertas, que estejam no estado “Em Auditoria”;
-	* **Selecionar um alerta:** aparecem todos os episódios com o alerta selecionado, que estejam no estado “Em Auditoria”;
-	* **Selecionar a opção Todos:** aparecem todos os episódios com pelo menos um alerta, que estejam no estado “Em Auditoria”.
+* **Não selecionar nada no filtro dos alertas:** aparecem todos os episódios, com e sem alertas, que estejam no estado “Em Auditoria”;
+* **Selecionar um alerta:** aparecem todos os episódios com o alerta selecionado, que estejam no estado “Em Auditoria”;
+* **Selecionar a opção Todos:** aparecem todos os episódios com pelo menos um alerta, que estejam no estado “Em Auditoria”.
 
 **Para que o utilizador possa consultar os detalhes de um episódio deverá selecionar um episódio da lista.**
 
