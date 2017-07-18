@@ -30,6 +30,11 @@ Depois de realizada a pesquisa, os resultados apresentam-se da seguinte maneira:
 
 <p class="caption" id="figResultadosAuditoria">Exemplo de Resultados obtidos na pesquisa</p>
 
+Atualmente, temos as seguintes possibilidades no filtro dos alertas:
+o *Não selecionar nada no filtro dos alertas:* aparecem todos os episódios, com e sem alertas, que estejam no estado “Em Auditoria”;
+o *Selecionar um alerta:* aparecem todos os episódios com o alerta selecionado, que estejam no estado “Em Auditoria”;
+o *Selecionar a opção Todos:* aparecem todos os episódios com pelo menos um alerta, que estejam no estado “Em Auditoria”.
+
 **Para que o utilizador possa consultar os detalhes de um episódio deverá selecionar um episódio da lista.**
 
 <div id="consultarAuditoria"></div>
@@ -62,3 +67,7 @@ Nesta página é possível visualizar a seguinte informação:
 
 * **Dados da Auditoria**
 ![figDetalheCodificacaoEpisodiosAuditoria4](img/pages/6_2_6.jpg)
+
+
+
+
