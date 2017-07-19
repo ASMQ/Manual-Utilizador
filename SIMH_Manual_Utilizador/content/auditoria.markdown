@@ -30,7 +30,7 @@ Depois de realizada a pesquisa, os resultados apresentam-se da seguinte maneira:
 
 <p class="caption" id="figepisodiosauditoria">Exemplo de Resultados obtidos na pesquisa</p>
 
-Atualmente, temos as seguintes possibilidades no filtro dos alertas:
+O utilizador pode gerar listagens de episódios através do preenchimento do filtro de pesquisa "Alertas". Atualmente, temos as seguintes possibilidades neste filtro:
 
 * **Não selecionar nada no filtro dos alertas:** aparecem todos os episódios, com e sem alertas, que estejam no estado “Em Auditoria”;
 * **Selecionar um alerta:** aparecem todos os episódios com o alerta selecionado, que estejam no estado “Em Auditoria”;
