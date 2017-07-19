@@ -11,11 +11,12 @@ title: "Episódios"
 
 Através deste módulo é possível fazer a codificação de episódios de uma determinada entidade hospitalar.
 
-Para isso, o utilizador deve, a partir da página inicial, aceder ao módulo "Episódios", tal como ilustra aaaaaaaaaaaaaaaaa [](#figepisodioslog).
+Para isso, o utilizador deve, a partir da página inicial, aceder ao módulo "Episódios", tal como ilustra a 
+[](#figAcessoCodificacaoEpisodios).
 
-![figepisodioslog](img/pages/episodioslog.jpg)
+![figAcessoCodificacaoEpisodios](img/pages/6_1.jpg)
 
-<p class="caption" id="figepisodioslog">Módulo Episódios</p>
+<p class="caption" id="figAcessoCodificacaoEpisodios">Módulo Codificação do Episódio</p>
 
 Ao aceder a este módulo, aparecerá a seguinte página:
 
