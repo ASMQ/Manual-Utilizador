@@ -25,7 +25,7 @@ Ao aceder a este módulo, aparecerá a seguinte página:
 <p class="caption" id="figFinalizarUrgente">Página de Pesquisa do Episódio</p>
 
 Nesta página terá de indicar o Nº Episódio e o Tipo de Episódio para que o sistema possa encontrar o episódio.
-Este módulo pesquisa por qualquer episódio existente no sistema de informação fonte mesmo que ele ainda n esteja integrado no SIMH. Assim permite ao utilizador finalizar qualquer episódio que lhe seja urgente, colocando-o no SIMH e enviando o GDH para o SONHO.
+Este módulo pesquisa por qualquer episódio existente no sistema de informação fonte mesmo que ele ainda não esteja integrado no SIMH. Assim permite ao utilizador finalizar qualquer episódio que lhe seja urgente, colocando-o no SIMH e enviando o GDH para o SONHO.
 
 Depois de selecionado o botão de **PESQUISAR**, será enviado para a página de codificação do episódio ([6.3. Edição de um episódio](#codificacao-edicao-de-episodios)) onde poderá concluir a codificação do episódio.
 

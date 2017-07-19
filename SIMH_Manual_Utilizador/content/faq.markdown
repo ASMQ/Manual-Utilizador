@@ -85,7 +85,7 @@ Os episódios de cirurgia de ambulatório não possuem especialidade, uma vez qu
 <br>
 <p class="faq"> 7. Porque é que a Hora de Admissão dos episódios de HDI não corresponde à hora de entrada? </p>
 
-A hora de admissão das sessões de HDI pode não ser preenchida no SONHO conforme necessitamos dela no SIMH, devido à definição de cada instituição sobre a hora da sessão e hora de entrada identificada no episódio. Depois de análise conjunta da ACSS e SPMS, a hora de admissão para estes episódios tornou-se um campo editável se forma a ser possivel avançar com a codificação no SIMH.
+A hora de admissão das sessões de HDI pode não ser preenchida no SONHO conforme necessitamos dela no SIMH, devido à definição de cada instituição sobre a hora da sessão e hora de entrada identificada no episódio. Depois de análise conjunta da ACSS e SPMS, a hora de admissão para estes episódios tornou-se um campo editável de forma a ser possível avançar com a codificação no SIMH.
 
 <br>
 <br>
