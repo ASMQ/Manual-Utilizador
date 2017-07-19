@@ -343,6 +343,15 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
+<td style="text-align: center; padding-left: 0px;">Codificação do Episódio Finalizar Urgente</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
 <td style="text-align: center; padding-left: 0px;">Codificação do Episódio Gravar Rascunho</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
