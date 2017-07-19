@@ -21,7 +21,7 @@ Ao aceder a este módulo, aparecerá a seguinte página:
 
 ![figCodificacaoEpisodios](img/pages/6_2.jpg)
 
-<p class="caption" id="figCodificacaoEpisodios">Página de entrada do módulo Codificação do Episódio</p>
+<p class="caption" id="figCodificacaoEpisodios">Página de entrada do módulo Episódio</p>
 
 Aqui, é possível realizar três ações distintas: **Pesquisa**, **Consulta** ou **Edição** de episódios.
 
