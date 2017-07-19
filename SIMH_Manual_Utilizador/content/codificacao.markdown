@@ -32,7 +32,7 @@ Aqui, é possível realizar três ações distintas: **Pesquisa**, **Consulta** 
 Antes de dar a conhecer as diferentes ações possíveis a realizar na aplicação sobre os episódios, será introduzido ao utilizador o conjunto de estados e ações possíveis de realizar sobre um episódio durante a sua existência. 
 Os diversos estados possíveis de um dado episódio podem ser:
 
-* **Por Codificar** - O episódio ainda não sofreu alterações para que este seja codificado e gravado. Foi integrado do Sistema de Informação (SI) fonte (sistema de onde provêm os dados dos episódios) e ainda não teve alterações;
+* **Por Codificar** - O episódio ainda não sofreu alterações para que este seja codificado e gravado. Foi integrado do Sistema de Informação (SI) fonte, sistema de onde provêm os dados dos episódios, e ainda não teve alterações;
 * **Não Codificável** - O episódio será marcado para não codificar;
 * **Rascunho** - O episódio já sofreu alterações que foram gravadas;
 * **Em Agrupamento** - Para que o episódio transite para o estado "Em auditoria" ou "Finalizado" deve primeiro sofrer agrupamento GDH. Este estado é um estado temporário e acontece sempre que o episódio for marcado para "Auditar" ou "Finalizar";
