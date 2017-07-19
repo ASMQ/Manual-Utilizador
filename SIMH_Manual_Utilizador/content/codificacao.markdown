@@ -13,7 +13,7 @@ Através deste módulo é possível fazer a codificação de episódios de uma d
 
 Para isso, o utilizador deve, a partir da página inicial, aceder ao módulo "Episódios", tal como ilustra a [](#figepisodioslog).
 
-![figepisodioslog](img/pages/episodioslog.png)
+![figepisodioslog](img/pages/episodioslog.jpg)
 
 <p class="caption" id="figepisodioslog">Módulo Episódios</p>
 
