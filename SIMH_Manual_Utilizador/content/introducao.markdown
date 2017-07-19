@@ -293,7 +293,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
 </tr>   
 </tbody>
 </table>
