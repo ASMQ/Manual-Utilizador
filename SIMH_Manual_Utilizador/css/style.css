@@ -259,6 +259,8 @@ padding: 0cm 5.4pt 0cm 5.4pt;
 
 
 
+
+
 /* =============================================================================
    Chrome Frame Prompt
    ========================================================================== */
@@ -452,6 +454,21 @@ p.faq{
 #indice a , #indice nav li div{
 	text-align: left;
 }
+/** Personalização da tabela de perfis e permissões **/
+
+table.tabelaPermissao{
+	table-layout:fixed;
+	width:1800;
+	font-size: 80%;
+	margin-left: 10px;
+	width: 95%;
+}
+
+table.tabelaPermissao td {
+	vertical-align: middle;	
+}
+
+
 
 
 
