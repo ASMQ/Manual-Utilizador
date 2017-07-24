@@ -196,7 +196,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
-<td style="text-align: center; padding-left: 0px;">Episódios;</td>
+<td style="text-align: center; padding-left: 0px;">Episódios</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
@@ -229,7 +229,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center; padding-left: 0px;">Simulador</td>
@@ -293,7 +293,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
 </tr>   
 </tbody>
 </table>
@@ -340,6 +340,15 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+</tr>
+<tr>
+<td style="text-align: center; padding-left: 0px;">Codificação do Episódio Finalizar Urgente</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #c6e0b4; text-align: center;">✓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
+<td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
