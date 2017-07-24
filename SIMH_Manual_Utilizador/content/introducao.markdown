@@ -491,7 +491,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </tbody>
 </table>  
 
-*A permissão do módulo "Finalizar Urgente" e a opção "Codificação do Episódio Finalizar Urgente" apenas está disponível para entidades que detenham o *software* SOMHO e que tenham a plataforma devidamente configurada. 
+/*A permissão do módulo "Finalizar Urgente" e a opção "Codificação do Episódio Finalizar Urgente" apenas está disponível para entidades que detenham o *software* SOMHO e que tenham a plataforma devidamente configurada. 
 O utilizador poderá ter apenas acesso parcial a uma funcionalidade, por exemplo, ter acesso ao módulo de Episódios, mas não poder finalizar os mesmos.    
 
 <div id="alteraPassword"></div>  
