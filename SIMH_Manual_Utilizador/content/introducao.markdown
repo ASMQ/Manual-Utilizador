@@ -172,10 +172,8 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </td>
 <td><strong>Administrativo</strong></td>
 <td><strong>Administrador da Entidade</strong></td>
-<td><strong>Administrador Administrativo</strong></td>
-<td><strong>M&eacute;dico Codificador que n&atilde;o Finaliza</strong></td>
-<td><strong>M&eacute;dico Codificador</strong></td>
-<td><strong>Administrador M&eacute;dico Codificador</strong></td>
+<td><strong>Médico Codificador que não Finaliza</strong></td>
+<td><strong>Médico Codificador</strong></td>
 </tr>
 <tr>
 <td style="text-align: center; padding-left: 0px;">Alteração da Senha</td>
@@ -263,10 +261,8 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </td>
 <td><strong>Administrativo</strong></td>
 <td><strong>Administrador da Entidade</strong></td>
-<td><strong>Administrador Administrativo</strong></td>
-<td><strong>M&eacute;dico Codificador que n&atilde;o Finaliza</strong></td>
-<td><strong>M&eacute;dico Codificador</strong></td>
-<td><strong>Administrador M&eacute;dico Codificador</strong></td>
+<td><strong>Médico Codificador que não Finaliza</strong></td>
+<td><strong>Médico Codificador</strong></td>
 </tr>
 <tr>
 <td style="text-align: center; padding-left: 0px;">Ações em Bloco</td>
@@ -310,10 +306,8 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </td>
 <td><strong>Administrativo</strong></td>
 <td><strong>Administrador da Entidade</strong></td>
-<td><strong>Administrador Administrativo</strong></td>
-<td><strong>M&eacute;dico Codificador que n&atilde;o Finaliza</strong></td>
-<td><strong>M&eacute;dico Codificador</strong></td>
-<td><strong>Administrador M&eacute;dico Codificador</strong></td>
+<td><strong>Médico Codificador que não Finaliza</strong></td>
+<td><strong>Médico Codificador</strong></td>
 </tr>
 <tr>
 <td style="text-align: center; padding-left: 0px;">Codificação do Episódio</td>
@@ -419,10 +413,8 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </td>
 <td><strong>Administrativo</strong></td>
 <td><strong>Administrador da Entidade</strong></td>
-<td><strong>Administrador Administrativo</strong></td>
-<td><strong>M&eacute;dico Codificador que n&atilde;o Finaliza</strong></td>
-<td><strong>M&eacute;dico Codificador</strong></td>
-<td><strong>Administrador M&eacute;dico Codificador</strong></td>
+<td><strong>Médico Codificador que não Finaliza</strong></td>
+<td><strong>Médico Codificador</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;padding-left: 0px;">Criar Mapeamento</td>
@@ -474,10 +466,8 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </td>
 <td><strong>Administrativo</strong></td>
 <td><strong>Administrador da Entidade</strong></td>
-<td><strong>Administrador Administrativo</strong></td>
-<td><strong>M&eacute;dico Codificador que n&atilde;o Finaliza</strong></td>
-<td><strong>M&eacute;dico Codificador</strong></td>
-<td><strong>Administrador M&eacute;dico Codificador</strong></td>
+<td><strong>Médico Codificador que não Finaliza</strong></td>
+<td><strong>Médico Codificador</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;padding-left: 0px;">Criar Médico Codificador</td>
