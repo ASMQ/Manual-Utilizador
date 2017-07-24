@@ -252,24 +252,18 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="text-align: center; padding-left: 0px;">Ações em Bloco</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center; padding-left: 0px;">Associação em Bloco</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center; padding-left: 0px;">Processos Ação em Bloco</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
@@ -299,8 +293,6 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center; padding-left: 0px;">Codificação do Episódio Auditar</td>
@@ -308,33 +300,25 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center; padding-left: 0px;">Codificação do Episódio Finalizar</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center; padding-left: 0px;">Codificação do Episódio Finalizar Urgente</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center; padding-left: 0px;">Codificação do Episódio Gravar Rascunho</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
@@ -344,13 +328,9 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center; padding-left: 0px;">Consultar Processos de Codificação</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
@@ -360,15 +340,11 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="text-align: center; padding-left: 0px;">Gerir Processo de Codificação</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 </tr>
 <tr>
 <td style="text-align: center; padding-left: 0px;">Processos de Codificação</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
@@ -378,8 +354,6 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="text-align: center;padding-left: 0px;">Não Codificável</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>  
@@ -404,37 +378,29 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="text-align: center;padding-left: 0px;">Criar Mapeamento</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center;padding-left: 0px;">Editar Mapeamento</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center;padding-left: 0px;">Remover Mapeamento</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center;padding-left: 0px;">Mapeamentos</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>   
 </tbody>
 </table> 
@@ -457,64 +423,50 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="text-align: center;padding-left: 0px;">Criar Médico Codificador</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center;padding-left: 0px;">Editar Médico Codificador</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center;padding-left: 0px;">Remover Médico Codificador</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center;padding-left: 0px;">Médicos Codificadores</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center;padding-left: 0px;">Criar Utilizador</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center;padding-left: 0px;">Editar Utilizador</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center;padding-left: 0px;">Remover Utilizador</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center;padding-left: 0px;">Detalhe do Utilizador</td>
@@ -522,25 +474,19 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr>
 <td style="text-align: center;padding-left: 0px;">Editar Estado do Utilizador</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>
 <tr> <td style="text-align: center;padding-left: 0px;">Gestão Utilizadores</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #c6e0b4; text-align: center;">✓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
 <td style="background-color: #ff8181; text-align: center;">☓</td>
-<td style="background-color: #c6e0b4; text-align: center;">✓</td>
 </tr>   
 </tbody>
 </table>  
