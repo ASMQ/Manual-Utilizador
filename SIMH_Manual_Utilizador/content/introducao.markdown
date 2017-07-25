@@ -493,7 +493,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 
 \*A permissão ao módulo "Finalizar Urgente" e à opção "Codificação do Episódio Finalizar Urgente" apenas está acessível para entidades que detenham o *software* SONHO e que tenham a plataforma devidamente configurada.   
 
-O perfil de **Administrador Administrativo** possui a junção das permissões do perfil Administrativo e Administrador da Entidade. O mesmo ocorre para o perfil **Administrador Médico Codificador** em que este perfil tem a junção das permissões do perfil Administrador da Entidade e de Médico Codificador.   
+O perfil de **Administrador Administrativo** possui a junção das permissões do perfil Administrativo e Administrador da Entidade. O mesmo ocorre para o perfil **Administrador Médico Codificador**, em que este perfil possui a junção das permissões do perfil Administrador da Entidade e do Médico Codificador.   
 
 O utilizador poderá ter apenas acesso parcial a uma funcionalidade, por exemplo, ter acesso ao módulo de Episódios, mas não poder finalizar os mesmos.    
 
