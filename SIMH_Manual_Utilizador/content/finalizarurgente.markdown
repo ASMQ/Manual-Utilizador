@@ -29,7 +29,7 @@ Este módulo pesquisa por qualquer episódio existente no Sistema de Informaçã
 
 Depois de selecionado o botão de **PESQUISAR**, será enviado para a página de codificação do episódio ([6.3. Edição de um episódio](#codificacao-edicao-de-episodios)) onde poderá concluir a codificação do episódio.
 
-Após concluir o preenchimento dos dados do episódio, deverá seleccionar o botão **Finalizar Urgente** presente na página de Registo. É de fazer notar que este módulo só se encontra disponível para a Entidade Financeira Responsável (EFR) mapeada para "Independente". 
+Após concluir o preenchimento dos dados do episódio, deverá seleccionar o botão **Finalizar Urgente** presente na página de Registo. É de fazer notar que este módulo só funciona para episódios em que a Entidade Financeira Responsável (EFR) esteja mapeada para "Independente". 
 
 De seguida apresenta-se um vídeo de demonstração da utilização deste módulo: 
 <p style="text-align: center; font-weight: bold;"><a href="./file/FinalizarUrgente.mp4">Demonstração da Utilização do Finalizar Urgente</a></p>
