@@ -107,19 +107,19 @@ Ao clicar neste botão, o utilizador transita para a página de detalhe do epis�
 
 Nesta página é possível visualizar a seguinte informação:
 
-* **Identificação do Episódio**
+* **Identificação do Episódio:**
 ![figDetalheCodificacaoEpisodios1](img/pages/6_2_3.jpg)
 
-* **Dados do Episódio**
+* **Dados do Episódio:**
 ![figDetalheCodificacaoEpisodios2](img/pages/6_2_4.jpg)
 
-* **Dados da Codificação**
+* **Dados da Codificação:**
 ![figDetalheCodificacaoEpisodios3](img/pages/6_2_5.jpg)
 
-* **Dados das Sessões**
+* **Dados das Sessões:**
 ![figDetalheCodificacaoEpisodios5](img/pages/6_2_7.jpg)
 
-* **Dados da Auditoria**
+* **Dados da Auditoria:**
 ![figDetalheCodificacaoEpisodios4](img/pages/6_2_6.jpg)
 
 A informação presente na área **Identificação do Episódio** encontra-se sempre visível durante as transições entre as abas **Dados do Episódio**, **Dados da Codificação** e **Dados da Auditoria**.
