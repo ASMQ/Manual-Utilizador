@@ -142,7 +142,7 @@ Ao clicar neste botão, o utilizador transita para a página de codificação do
 
 ![figCodificacaoCodificacaoEpisodios](img/pages/6_3_2.jpg)
 
-<p class="caption" id="figCodificacaoCodificacaoEpisodios">Codificação de um episódio</p>
+<p class="caption" id="figCodificacaoCodificacaoEpisodios">Codificação de um episódio.</p>
 
 A codificação de um episódio segue, essencialmente, a sequência descrita na [](#figFluxoCodificacaoEpisodio).
 
