@@ -16,13 +16,13 @@ Para isso, o utilizador deve, a partir da página inicial, aceder ao módulo "Ep
 
 ![figAcessoCodificacaoEpisodios](img/pages/6_1.jpg)
 
-<p class="caption" id="figAcessoCodificacaoEpisodios">Módulo Episódio</p>
+<p class="caption" id="figAcessoCodificacaoEpisodios">Módulo Episódio.</p>
 
 Ao aceder a este módulo, aparecerá a seguinte página:
 
 ![figCodificacaoEpisodios](img/pages/6_2.jpg)
 
-<p class="caption" id="figCodificacaoEpisodios">Página de entrada do módulo Episódio</p>
+<p class="caption" id="figCodificacaoEpisodios">Página de entrada do módulo Episódio.</p>
 
 Aqui, é possível realizar três ações distintas: **Pesquisa**, **Consulta** ou **Edição** de episódios.
 
@@ -83,9 +83,9 @@ A pesquisa realizada apenas devolve episódios relativos à entidade hospitalar 
 
 A [](#figPesquisaCodificacaoEpisodios) ilustra como exemplo uma pesquisa de episódios no estado ´Por Codificar´ efetuada por um utilizador.
 
-![figPesquisaCodificacaoEpisodios](img/pages/6_1_1.jpg)
+![figPesquisaCodificacaoEpisodios](img/pages/6_1_1.png)
 
-<p class="caption" id="figPesquisaCodificacaoEpisodios">Pesquisa de episódios por codificar</p>
+<p class="caption" id="figPesquisaCodificacaoEpisodios">Pesquisa de episódios por codificar.</p>
 
 <div id="detalhe"></div>
 <div id="codificacao-consulta-de-episodios"></div>
@@ -93,33 +93,33 @@ A [](#figPesquisaCodificacaoEpisodios) ilustra como exemplo uma pesquisa de epis
 ## 6.2. Consulta de um episódio
 
 Após realizar a pesquisa de episódios segundo um conjunto de critérios (ver [6.1. Pesquisa de episódios por codificar](#codificacao-pesquisa-de-episodios)), e ao selecionar um episódio, passa a ser possível a consulta do mesmo.
-Para tal, deve-se clicar no botão **Consultar**, tal como a [](#figConsultaCodificacaoEpisodios) ilustra.
+Para tal, deve-se clicar no botão **Consultar**, tal como a [](#figConsultaCodificacaoEpisodios) ilustra. 
 
-![figConsultaCodificacaoEpisodios](img/pages/6_2_1.jpg)
+![figConsultaCodificacaoEpisodios](img/pages/6_2_1.png)
 
-<p class="caption" id="figConsultaCodificacaoEpisodios">Consulta dos detalhes de um episódio</p>
+<p class="caption" id="figConsultaCodificacaoEpisodios">Consulta dos detalhes de um episódio.</p>
 
 Ao clicar neste botão, o utilizador transita para a página de detalhe do episódio tal como a [](#figDetalheCodificacaoEpisodios) ilustra.
 
 ![figDetalheCodificacaoEpisodios](img/pages/6_2_2.jpg)
 
-<p class="caption" id="figDetalheCodificacaoEpisodios">Detalhe de um episódio</p>
+<p class="caption" id="figDetalheCodificacaoEpisodios">Detalhe de um episódio.</p>
 
 Nesta página é possível visualizar a seguinte informação:
 
-* **Identificação do Episódio**
+* **Identificação do Episódio:**
 ![figDetalheCodificacaoEpisodios1](img/pages/6_2_3.jpg)
 
-* **Dados do Episódio**
+* **Dados do Episódio:**
 ![figDetalheCodificacaoEpisodios2](img/pages/6_2_4.jpg)
 
-* **Dados da Codificação**
+* **Dados da Codificação:**
 ![figDetalheCodificacaoEpisodios3](img/pages/6_2_5.jpg)
 
-* **Dados das Sessões**
+* **Dados das Sessões:**
 ![figDetalheCodificacaoEpisodios5](img/pages/6_2_7.jpg)
 
-* **Dados da Auditoria**
+* **Dados da Auditoria:**
 ![figDetalheCodificacaoEpisodios4](img/pages/6_2_6.jpg)
 
 A informação presente na área **Identificação do Episódio** encontra-se sempre visível durante as transições entre as abas **Dados do Episódio**, **Dados da Codificação** e **Dados da Auditoria**.
@@ -136,19 +136,19 @@ Para tal, deve-se clicar no botão **Editar**, tal como a [](#figEditaCodificaca
 
 ![figEditaCodificacaoEpisodios](img/pages/6_3_1.jpg)
 
-<p class="caption" id="figEditaCodificacaoEpisodios">Edição de um episódio</p>
+<p class="caption" id="figEditaCodificacaoEpisodios">Edição de um episódio.</p>
 
 Ao clicar neste botão, o utilizador transita para a página de codificação do episódio tal como a [](#figCodificacaoCodificacaoEpisodios) ilustra.
 
 ![figCodificacaoCodificacaoEpisodios](img/pages/6_3_2.jpg)
 
-<p class="caption" id="figCodificacaoCodificacaoEpisodios">Codificação de um episódio</p>
+<p class="caption" id="figCodificacaoCodificacaoEpisodios">Codificação de um episódio.</p>
 
 A codificação de um episódio segue, essencialmente, a sequência descrita na [](#figFluxoCodificacaoEpisodio).
 
 ![figFluxoCodificacaoEpisodio](img/fluxo_episodio.png)
 
-<p class="caption" id="figFluxoCodificacaoEpisodio">Fluxo de codificação de um episódio</p>
+<p class="caption" id="figFluxoCodificacaoEpisodio">Fluxo de codificação de um episódio.</p>
 
 Inicialmente, é necessário preencher a secção de **Informação do Episódio** e a de **Registo** do episódio.
 Caso o utilizador deseje simplesmente marcar o episódio como não codificável, deverá clicar no botão **Não Codificar**.
