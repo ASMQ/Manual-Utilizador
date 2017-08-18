@@ -148,7 +148,7 @@ A codificação de um episódio segue, essencialmente, a sequência descrita na 
 
 ![figFluxoCodificacaoEpisodio](img/fluxo_episodio.png)
 
-<p class="caption" id="figFluxoCodificacaoEpisodio">Fluxo de codificação de um episódio</p>
+<p class="caption" id="figFluxoCodificacaoEpisodio">Fluxo de codificação de um episódio.</p>
 
 Inicialmente, é necessário preencher a secção de **Informação do Episódio** e a de **Registo** do episódio.
 Caso o utilizador deseje simplesmente marcar o episódio como não codificável, deverá clicar no botão **Não Codificar**.
