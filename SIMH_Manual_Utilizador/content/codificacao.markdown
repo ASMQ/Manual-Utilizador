@@ -93,7 +93,7 @@ A [](#figPesquisaCodificacaoEpisodios) ilustra como exemplo uma pesquisa de epis
 ## 6.2. Consulta de um episódio
 
 Após realizar a pesquisa de episódios segundo um conjunto de critérios (ver [6.1. Pesquisa de episódios por codificar](#codificacao-pesquisa-de-episodios)), e ao selecionar um episódio, passa a ser possível a consulta do mesmo.
-Para tal, deve-se clicar no botão **Consultar**, tal como a [](#figConsultaCodificacaoEpisodios) ilustra. VERRRRRRRRRRRRRRRRR
+Para tal, deve-se clicar no botão **Consultar**, tal como a [](#figConsultaCodificacaoEpisodios) ilustra. 
 
 ![figConsultaCodificacaoEpisodios](img/pages/6_2_1.png)
 
@@ -103,7 +103,7 @@ Ao clicar neste botão, o utilizador transita para a página de detalhe do epis�
 
 ![figDetalheCodificacaoEpisodios](img/pages/6_2_2.jpg)
 
-<p class="caption" id="figDetalheCodificacaoEpisodios">Detalhe de um episódio</p>
+<p class="caption" id="figDetalheCodificacaoEpisodios">Detalhe de um episódio.</p>
 
 Nesta página é possível visualizar a seguinte informação:
 
