@@ -136,7 +136,7 @@ Para tal, deve-se clicar no botão **Editar**, tal como a [](#figEditaCodificaca
 
 ![figEditaCodificacaoEpisodios](img/pages/6_3_1.jpg)
 
-<p class="caption" id="figEditaCodificacaoEpisodios">Edição de um episódio</p>
+<p class="caption" id="figEditaCodificacaoEpisodios">Edição de um episódio.</p>
 
 Ao clicar neste botão, o utilizador transita para a página de codificação do episódio tal como a [](#figCodificacaoCodificacaoEpisodios) ilustra.
 
