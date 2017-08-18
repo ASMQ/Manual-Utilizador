@@ -83,7 +83,7 @@ A pesquisa realizada apenas devolve episódios relativos à entidade hospitalar 
 
 A [](#figPesquisaCodificacaoEpisodios) ilustra como exemplo uma pesquisa de episódios no estado ´Por Codificar´ efetuada por um utilizador.
 
-![figPesquisaCodificacaoEpisodios](img/pages/6_1_1.jpg)
+![figPesquisaCodificacaoEpisodios](img/pages/6_1_1.png)
 
 <p class="caption" id="figPesquisaCodificacaoEpisodios">Pesquisa de episódios por codificar.</p>
 
@@ -95,7 +95,7 @@ A [](#figPesquisaCodificacaoEpisodios) ilustra como exemplo uma pesquisa de epis
 Após realizar a pesquisa de episódios segundo um conjunto de critérios (ver [6.1. Pesquisa de episódios por codificar](#codificacao-pesquisa-de-episodios)), e ao selecionar um episódio, passa a ser possível a consulta do mesmo.
 Para tal, deve-se clicar no botão **Consultar**, tal como a [](#figConsultaCodificacaoEpisodios) ilustra. VERRRRRRRRRRRRRRRRR
 
-![figConsultaCodificacaoEpisodios](img/pages/6_2_1.jpg)
+![figConsultaCodificacaoEpisodios](img/pages/6_2_1.png)
 
 <p class="caption" id="figConsultaCodificacaoEpisodios">Consulta dos detalhes de um episódio.</p>
 
