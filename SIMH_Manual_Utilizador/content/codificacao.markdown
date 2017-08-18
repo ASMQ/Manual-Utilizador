@@ -225,7 +225,7 @@ Quando finalizada a edição de um episódio, podem ser realizadas três ações
 
 ![figRegistoCodificacaoEpisodios](img/pages/6_3_9.jpg)
 
-<p class="caption" id="figRegistoCodificacaoEpisodios">Exemplo do botão de Copiar Codificação</p>
+<p class="caption" id="figRegistoCodificacaoEpisodios">Exemplo do botão de Copiar Codificação.</p>
 
 Quando pressionado o botão de **Copiar Codificação** este usa a última sessão válida codificada e copia a codificação dessa para o episódio em que o utilizador se encontra atualmente. No caso de haver mais que uma sessão codificada, o sistema vai buscar a última sessão codificada válida.
 
