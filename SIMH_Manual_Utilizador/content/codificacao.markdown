@@ -16,13 +16,13 @@ Para isso, o utilizador deve, a partir da página inicial, aceder ao módulo "Ep
 
 ![figAcessoCodificacaoEpisodios](img/pages/6_1.jpg)
 
-<p class="caption" id="figAcessoCodificacaoEpisodios">Módulo Episódio</p>
+<p class="caption" id="figAcessoCodificacaoEpisodios">Módulo Episódio.</p>
 
 Ao aceder a este módulo, aparecerá a seguinte página:
 
 ![figCodificacaoEpisodios](img/pages/6_2.jpg)
 
-<p class="caption" id="figCodificacaoEpisodios">Página de entrada do módulo Episódio</p>
+<p class="caption" id="figCodificacaoEpisodios">Página de entrada do módulo Episódio.</p>
 
 Aqui, é possível realizar três ações distintas: **Pesquisa**, **Consulta** ou **Edição** de episódios.
 
