@@ -77,23 +77,24 @@ Associada à interação com o sistema existe um conjunto de conceitos para os q
 Todos os formulários que permitem a criação ou edição de dados têm um conjunto de regras de negócio e validações para facilitar o preenchimento correto dos dados.
 Para auxiliar as validações existem 4 tipos de mensagens:
 
-* Mensagem de Informação
+* Mensagem de Informação:
 
 ![logo](img/informacao.jpg)
 
-* Mensagem de Alerta
+* Mensagem de Alerta:
 
 ![logo](img/alerta.jpg)
 
-* Mensagem de Erro
+* Mensagem de Erro:
 
 ![logo](img/erro.jpg)
 
-* Mensagem de Sucesso
+* Mensagem de Sucesso:
 
 ![logo](img/sucesso.jpg)
 
-No cabeçalho das páginas do *SIMH* existe um conjunto de dados que serve para informação/contextualização do utilizador:
+
+No cabeçalho das páginas do SIMH existe um conjunto de dados que serve para informação/contextualização do utilizador:
 
 * Nome do utilizador;
 * Nome da entidade hospitalar, caso exista, associada ao utilizador;
@@ -110,7 +111,7 @@ De seguida, apresenta-se como decorre a primeira interação do utilizador com a
 
 ## 4.1. Aceder ao SIMH
 
-O acesso ao SIMH é realizado através da navegação ao endereço em <http://simh.min-saude.pt/SIMH/>. Ao aceder irá surgir a página que aparece na [](#figLogin).
+O acesso ao SIMH é realizado através da navegação ao endereço em <http://simh.min-saude.pt/SIMH/>. Ao aceder à plataforma do SIMH irá surgir a página que aparece [](#figLogin).
 
 ![figLogin](img/pages/4_1_1.jpg)
 
@@ -139,11 +140,11 @@ De seguida, deverá preencher os campos obrigatórios do formulário e clicar em
 
 Serão enviadas as intruções de recuperação de password para o e-mail associado ao utilizador introduzido no campo.
 
-Uma vez identificado e autenticado, é apresentada ao utilizador a página de entrada do *SIMH* ([](#figPaginaEntrada)), onde este pode aceder às funcionalidades que lhe estão disponíveis.
+Uma vez identificado e autenticado, é apresentada ao utilizador a página de entrada do SIMH ([](#figPaginaEntrada)), onde este pode aceder às funcionalidades que lhe estão disponíveis.
 
 ![figPaginaEntrada](img/pages/4_1_3.jpg)
 
-<p class="caption" id="figPaginaEntrada"> Página de entrada no SIMH </p>
+<p class="caption" id="figPaginaEntrada"> Página de entrada na plataforma do SIMH. </p>
  
 Dentro de cada módulo é possível aceder aos restantes menus bastando para isso clicar no logotipo da aplicação, no canto superior esquerdo, e selecionar o módulo para onde se deseja transitar, tal como ilustrado na [](#figMudaModulo).
 
