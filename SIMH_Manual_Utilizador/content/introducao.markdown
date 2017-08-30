@@ -73,7 +73,7 @@ Objetivos do Sistema:
 
 # 4. Conceitos Básicos
 
-Associada à interação com o sistema existe um conjunto de conceitos para os quais é chamada a atenção neste Capítulo.
+Associada à interação com o sistema existe um conjunto de conceitos para os quais é chamada a atenção neste capítulo.
 Todos os formulários que permitem a criação ou edição de dados têm um conjunto de regras de negócio e validações para facilitar o preenchimento correto dos dados.
 Para auxiliar as validações existem 4 tipos de mensagens:
 
@@ -122,7 +122,7 @@ Aqui, o utilizador deve inserir as suas credenciais nos campos obrigatórios e c
 |    |  Campos Obrigatórios [](#figLogin)  															|	           
 |----|----------------------------------------------------------------------------------------------|
 | a) | Nome de utilizador (utilizador do RNP ou o utilizador criado na aplicação SIMH)  			|
-| b) | Password								  														| 
+| b) | *Password*							  														| 
 
 > Os médicos registados na plataforma RNP podem entrar no SIMH com as credenciais da mesma. Apenas é necessário que o administrador da entidade hospitalar a que o médico pertence, faça a associação desse médico à sua entidade. Uma vez realizado, o médico ficará com o perfil de médico codificador e fica habilitado a entrar no SIMH (ver capítulo [8. Médicos Codificadores](#gestaoMedicos) para mais informações).
 > Os restantes utilizadores, devem ser primeiro criados conforme descrito no capítulo [5. Gestão de Utilizadores](#gestaoUtilizadores).
@@ -138,7 +138,7 @@ De seguida, deverá preencher os campos obrigatórios do formulário e clicar em
 |----|------------------------------------------------------------------------------------------|
 | a) | Nome de utilizador (utilizador do RNP ou o utilizador criado na aplicação SIMH) 			|
 
-Serão enviadas as intruções de recuperação de password para o e-mail associado ao utilizador introduzido no campo.
+Serão enviadas as intruções de recuperação de *password* para o e-mail associado ao utilizador introduzido no campo.
 
 Uma vez identificado e autenticado, é apresentada ao utilizador a página de entrada do SIMH ([](#figPaginaEntrada)), onde este pode aceder às funcionalidades que lhe estão disponíveis.
 
