@@ -36,8 +36,8 @@ Para criar novos utilizadores, o utilizador com perfil de administrador deve cli
 
 ![figAcessoCriarUtilizadores](img/pages/5_1_1.jpg)
 
-<p class="caption" id="figAcessoCriarUtilizadores">Página de criação de novos utilizadores. </p>
- 
+<p class="caption" id="figAcessoCriarUtilizadores">Página de criação de novos utilizadores.</p> 
+
 Atenta-se que o administrador de uma entidade hospitalar apenas pode criar novos utilizadores para essa mesma entidade.
 
 Ao clicar neste botão aparecerá a página de **Criar Utilizador** (ver [](#figCriarUtilizadores)).
@@ -61,15 +61,15 @@ Para a criação de um utilizador devem ser preenchidos os seguintes campos obri
 Os tipos de utilizador disponíveis para novos utilizadores são:
 
 * **Utilizador Aplicacional** - Permite a este utilizador aceder como administrativo ou administrador da entidade. Quando selecionado, o campo perfil é obrigatório.
-* **Utilizador Médico Codificador** - Permite a este utilizador aceder como médico da entidade tornando-o responsável pela codificação de episódios. Quando selecionado, os campos Nº Ordem dos Médicos e Auditor são obrigatórios.
+* **Utilizador Médico Codificador** - Permite a este utilizador aceder como médico da entidade hospitalar tornando-o responsável pela codificação de episódios. Quando selecionado, os campos Nº Ordem dos Médicos e Auditor são obrigatórios.
 
 Os perfis disponíveis para novos utilizadores são:
 
 * **Administrativo da Entidade** - Trabalhadores que pertencem a uma entidade hospitalar. Podem codificar episódios mas não são os responsáveis pela codificação de um episódio;
-* **Médico Codificador** - Médico Codificador com as permissões de auditar e finalizar episódios.
-* **Médico Codificador que não finaliza** - Medico Codificador que não tem permissões para finalizar episódios.
+* **Médico Codificador** - Médico codificador com as permissões de auditar e finalizar episódios.
+* **Médico Codificador que não finaliza** - Medico codificador que não tem permissões para finalizar episódios.
 
-No final da edição, o administrador deve clicar no botão **Criar**, para completar a criação de um novo utilizador.
+No final da edição, o administrador deve clicar no botão **Criar** para completar a criação de um novo utilizador.
 
 <div id="pesquisaUtilizadores"></div>
 
@@ -79,7 +79,7 @@ Para consultar por utilizadores existentes na entidade hospitalar, deve-se clica
 
 ![figAcessoPesquisarUtilizadores](img/pages/5_2_1.jpg)
 
-<p class="caption" id="figAcessoPesquisarUtilizadores">Página de Criação de Utilizadores </p>
+<p class="caption" id="figAcessoPesquisarUtilizadores">Página de Criação de Utilizadores. </p>
 
 Atenta-se que o administrador de uma entidade hospitalar apenas pode pesquisar por utilizadores que pertençam à sua entidade hospitalar.
 
@@ -87,7 +87,8 @@ Adicionalmente, os utilizadores a pesquisar podem ser filtrados por nome de util
 
 Os perfis disponíveis para pesquisa são:
 
-* **Administrativo da Entidade** - Trabalhadores que pertencem a uma entidade hospitalar. Podem codificar episódios mas não são os responsáveis pela codificação de um episódio;
+* **Administrativo** - Trabalhadores que pertencem a uma entidade hospitalar. Podem codificar episódios mas não são os responsáveis pela codificação de um episódio;
+* **Consulta** - Utilizadores associados a uma determinada entidade hospitalar com permissão de consultar episódios;
 * **Médico Codificador** - Médico que codifica episódios.
 * **Médico codificador sem permissões para finalizar** - médico que codifica episódios mas não os poderá finalizar.
 
@@ -96,11 +97,11 @@ Os estados disponíveis para pesquisa são:
 * **Ativo** - Utilizadores que pertencem à entidade e que podem aceder ao sistema.
 * **Bloqueado** - Utilizadores que pertencem à entidade e que foram bloqueados de aceder ao sistema.
 
-A [](#figPesquisaUtilizadores) ilustra como exemplo uma pesquisa de utilizadores efetuada por um administrador do Hospital Espírito Santo, EPE - Évora.
+A [](#figPesquisaUtilizadores) representa um exemplo de uma pesquisa de utilizadores efetuada por um administrador de um hopsital, designado de Hospital Teste, EPE:
 
 ![figPesquisaUtilizadores](img/pages/5_2_2.jpg)
 
-<p class="caption" id="figPesquisaUtilizadores">Pesquisa de utilizadores</p>
+<p class="caption" id="figPesquisaUtilizadores">Pesquisa de utilizadores de uma entidade hospitalar.</p>
 
 <div id="editarUtilizadores"></div>
 
