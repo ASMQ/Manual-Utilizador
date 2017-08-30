@@ -12,21 +12,21 @@ title: "Gestão de Utilizadores"
 
 Através deste módulo é possível realizar a gestão de utilizadores pertencentes a uma entidade hospitalar. 
 
-Esta gestão apenas está acessível a um utilizador que detenha o perfil de administrador da entidade hospitalar onde exerce funções.
+Esta gestão apenas está acessível a um utilizador que detenha o perfil de **administrador da entidade hospitalar** onde exerce funções.
 
 Para isso, o utilizador deve, a partir da página inicial, ao módulo de “Gestão de Utilizadores”, tal como ilustra a [](#figAcessoGestaoUtilizadores).
 
 ![figAcessoGestaoUtilizadores](img/pages/5_1.jpg)
 
-<p class="caption" id="figAcessoGestaoUtilizadores">Módulo de Gestão de Utilizadores</p>
+<p class="caption" id="figAcessoGestaoUtilizadores">Módulo de Gestão de Utilizadores.</p>
 
 Ao aceder a este módulo, aparecerá a seguinte página:
 
 ![figGestaoUtilizadores](img/pages/5_2.jpg)
 
-<p class="caption" id="figGestaoUtilizadores">Página de Gestão de Utilizadores </p>
+<p class="caption" id="figGestaoUtilizadores">Página de Gestão de Utilizadores.</p>
 
-Aqui, é possível realizar três ações distintas: **Criação**, **Pesquisa** ou **Edição** de utilizadores. 
+Aqui, é possível realizar três ações distintas: **Criação**, **Edição** ou **Remoção** de utilizadores. 
 
 <div id="criarUtilizadores"></div>
 
@@ -36,7 +36,7 @@ Para criar novos utilizadores, o utilizador com perfil de administrador deve cli
 
 ![figAcessoCriarUtilizadores](img/pages/5_1_1.jpg)
 
-<p class="caption" id="figAcessoCriarUtilizadores">Página de Criação de Utilizadores </p>
+<p class="caption" id="figAcessoCriarUtilizadores">Página de criação de novos utilizadores. </p>
  
 Atenta-se que o administrador de uma entidade hospitalar apenas pode criar novos utilizadores para essa mesma entidade.
 
