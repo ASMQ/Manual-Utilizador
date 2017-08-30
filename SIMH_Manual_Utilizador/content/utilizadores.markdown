@@ -26,7 +26,7 @@ Ao aceder a este módulo, aparecerá a seguinte página:
 
 <p class="caption" id="figGestaoUtilizadores">Página de Gestão de Utilizadores.</p>
 
-Aqui, é possível realizar três ações distintas: **Criação**, **Edição** ou **Remoção** de utilizadores. 
+Aqui, é possível realizar três ações distintas: **Criação**, **Pesquisa** ou **Edição** de utilizadores. 
 
 <div id="criarUtilizadores"></div>
 
@@ -56,7 +56,7 @@ Para a criação de um utilizador devem ser preenchidos os seguintes campos obri
 | d) |  Nº Ordem dos Médicos (apenas Utilizador Médico Codificador) |		|
 | e) |  Auditor (apenas Utilizador Médico Codificador) 				|		|
 | f) |  E-mail				              							|		|
-| g) |  Perfil (apenas Utilizador Aplicacional) 					| 		|
+| g) |  Perfil 									 					| 		|
 	
 Os tipos de utilizador disponíveis para novos utilizadores são:
 
