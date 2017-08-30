@@ -498,7 +498,7 @@ O utilizador poderá ter apenas acesso parcial a uma funcionalidade, por exemplo
 ## 4.3. Alteração da senha
 
 A qualquer momento, o utilizador pode fazer a alteração da sua senha, clicando no botão das opções avançadas situado no canto superior direito da página (ver [4.Conceitos Básicos](#conceitos-bsicos)). 
-Após clicar em **Alterar Password** é apresentada a seguinte página de alteração de senha:
+Após clicar em **Alterar Password** é apresentada a seguinte página de alteração da senha:
 
 ![figAlteraSenha](img/pages/4_2_1.jpg)
 
