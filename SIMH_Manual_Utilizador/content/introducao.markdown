@@ -131,7 +131,7 @@ Caso o utilizador, por algum motivo, necessite de uma nova senha gerada pelo sis
 
 ![figLoginRecuperacao](img/pages/4_1_2.jpg)
 
-<p class="caption" id="figLoginRecuperacao"> Recuperação da Senha </p>
+<p class="caption" id="figLoginRecuperacao"> Recuperação da Senha. </p>
 De seguida, deverá preencher os campos obrigatórios do formulário e clicar em **Enviar**.  
 
 |    |  Campos Obrigatórios [](#figLoginRecuperacao)  											|	           
@@ -150,7 +150,7 @@ Dentro de cada módulo é possível aceder aos restantes menus bastando para iss
 
 ![figMudaModulo](img/pages/4_1_4.jpg)
 
-<p class="caption" id="figMudaModulo">Transição entre módulos</p> 
+<p class="caption" id="figMudaModulo">Transição entre módulos.</p> 
  
 Na primeira vez que o utilizador acede a aplicação, aparecerá a página para alterar a sua senha ([4.3. Alteração da senha](#alterao-da-senha)).
 O utilizador pode sair do sistema a qualquer momento, bastando para isso clicar no botão **Terminar Sessão** ![logo](img/logout.jpg).
@@ -498,11 +498,11 @@ O utilizador poderá ter apenas acesso parcial a uma funcionalidade, por exemplo
 ## 4.3. Alteração da senha
 
 A qualquer momento, o utilizador pode fazer a alteração da sua senha, clicando no botão das opções avançadas situado no canto superior direito da página (ver [4.Conceitos Básicos](#conceitos-bsicos)). 
-Após clicar em **Alterar Password** é apresentada uma página de alteração de senha, ver [](#figAlteraSenha).
+Após clicar em **Alterar Password** é apresentada a seguinte página de alteração de senha:
 
 ![figAlteraSenha](img/pages/4_2_1.jpg)
 
-<p class="caption" id="figAlteraSenha"> Página de alteração de senha </p>
+<p class="caption" id="figAlteraSenha"> Página de alteração da senha do utilizador. </p>
 
 O utilizador deverá preencher os seguintes campos obrigatórios:  
 
