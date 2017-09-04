@@ -92,7 +92,7 @@ Os estados disponíveis para pesquisa são:
 * **Ativo** - Utilizadores que pertencem à entidade e que podem aceder ao sistema.
 * **Bloqueado** - Utilizadores que pertencem à entidade e que foram bloqueados de aceder ao sistema.
 
-A [](#figPesquisaUtilizadores) representa um exemplo de uma pesquisa de utilizadores efetuada por um administrador de um hopsital, designado de Hospital Teste, EPE:
+Para consultar por utilizadores existentes na entidade hospitalar, deve-se clicar no botão *Pesquisar*. A figura [](#figPesquisaUtilizadores) ilustra um exemplo de uma pesquisa de utilizadores efetuada por um administrador hospitalar:
 
 ![figPesquisaUtilizadores](img/pages/5_2_2.jpg)
 
