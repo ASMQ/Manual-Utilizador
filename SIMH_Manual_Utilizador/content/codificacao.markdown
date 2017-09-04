@@ -63,7 +63,7 @@ Para que transite para este estado, o episódio deve primeiro sofrer agrupamento
 
 ## 6.1. Pesquisa de episódios por codificar
 
-Na pesquisa de episódios por codificar, um utilizador deve preencher obrigatoriamente um dos seguintes campos:
+Na pesquisa de episódios no estado **Por Codificar**, um utilizador deve preencher obrigatoriamente um dos seguintes campos:
 
 * **Nº Processo** - Número de processo associado aos episódios a pesquisar;
 * **Nº Episódio** - Número que identifica de forma inequívoca o episódio na entidade hospitalar do utilizador;
@@ -81,9 +81,9 @@ De seguida deve clicar no botão **Pesquisar**.
 
 A pesquisa realizada apenas devolve episódios relativos à entidade hospitalar do utilizador que efetuou a pesquisa.
 
-A [](#figPesquisaCodificacaoEpisodios) ilustra como exemplo uma pesquisa de episódios no estado ´Por Codificar´ efetuada por um utilizador.
+A seguinte exemplifica uma pesquisa de episódios através de alguns filtros aplicados no campo de pesquisa efetuada por um utilizador:
 
-![figPesquisaCodificacaoEpisodios](img/pages/6_1_1.png)
+![figPesquisaCodificacaoEpisodios](img/pages/6_1_1.jpg)
 
 <p class="caption" id="figPesquisaCodificacaoEpisodios">Pesquisa de episódios por codificar.</p>
 
