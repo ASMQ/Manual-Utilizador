@@ -60,14 +60,15 @@ Para a criação de um utilizador devem ser preenchidos os seguintes campos obri
 	
 Os tipos de utilizador disponíveis para novos utilizadores são:
 
-* **Utilizador Aplicacional** - Permite a este utilizador aceder como administrativo ou administrador da entidade. Quando selecionado, o campo perfil é obrigatório.
+* **Utilizador Aplicacional** - Permite a este utilizador aceder como administrativo. Quando selecionado, o campo perfil é obrigatório.
 * **Utilizador Médico Codificador** - Permite a este utilizador aceder como médico da entidade hospitalar tornando-o responsável pela codificação de episódios. Quando selecionado, os campos Nº Ordem dos Médicos e Auditor são obrigatórios.
 
 Os perfis disponíveis para novos utilizadores são:
 
 * **Administrativo da Entidade** - Trabalhadores que pertencem a uma entidade hospitalar. Podem codificar episódios mas não são os responsáveis pela codificação de um episódio;
-* **Médico Codificador** - Médico codificador com as permissões de auditar e finalizar episódios.
-* **Médico Codificador que não finaliza** - Medico codificador que não tem permissões para finalizar episódios.
+* **Perfil de Consulta** - Utilizadores associados a uma dada entidade hospitalr com permissão de consultar episódios clínicos;
+* **Médico Codificador** - Médico codificador com as permissões de auditar e finalizar episódios;
+* **Médico Codificador que não finaliza** - Médico codificador que não tem permissões para finalizar episódios.
 
 No final da edição, o administrador deve clicar no botão **Criar** para completar a criação de um novo utilizador.
 
@@ -75,22 +76,16 @@ No final da edição, o administrador deve clicar no botão **Criar** para compl
 
 ## 5.2 Pesquisa de utilizadores
 
-Para consultar por utilizadores existentes na entidade hospitalar, deve-se clicar no botão **Pesquisar**, tal como a [](#figAcessoPesquisarUtilizadores) ilustra.
-
-![figAcessoPesquisarUtilizadores](img/pages/5_2_1.jpg)
-
-<p class="caption" id="figAcessoPesquisarUtilizadores">Página de Criação de Utilizadores. </p>
-
-Atenta-se que o administrador de uma entidade hospitalar apenas pode pesquisar por utilizadores que pertençam à sua entidade hospitalar.
+O administrador de uma entidade hospitalar apenas pode pesquisar por utilizadores que pertençam à sua entidade hospitalar.
 
 Adicionalmente, os utilizadores a pesquisar podem ser filtrados por nome de utilizador, perfil ou estado.
 
 Os perfis disponíveis para pesquisa são:
 
-* **Administrativo** - Trabalhadores que pertencem a uma entidade hospitalar. Podem codificar episódios mas não são os responsáveis pela codificação de um episódio;
-* **Consulta** - Utilizadores associados a uma determinada entidade hospitalar com permissão de consultar episódios;
+* **Administrativo** - Trabalhadores que pertencem a uma entidade hospitalar com  permissão de codificar episódios, porém não são os responsáveis pela mesma;
+* **Consulta** - Utilizadores com permissão de consultar episódios;
 * **Médico Codificador** - Médico que codifica episódios.
-* **Médico codificador sem permissões para finalizar** - médico que codifica episódios mas não os poderá finalizar.
+* **Médico codificador sem permissões para finalizar** - Médico que codifica episódios mas não os poderá finalizar.
 
 Os estados disponíveis para pesquisa são:
 
