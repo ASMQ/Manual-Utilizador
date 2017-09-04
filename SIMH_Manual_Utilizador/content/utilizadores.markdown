@@ -92,7 +92,7 @@ Os estados disponíveis para pesquisa são:
 * **Ativo** - Utilizadores que pertencem à entidade e que podem aceder ao sistema.
 * **Bloqueado** - Utilizadores que pertencem à entidade e que foram bloqueados de aceder ao sistema.
 
-Para consultar por utilizadores existentes na entidade hospitalar, deve-se clicar no botão **Pesquisar**. A figura [](#figPesquisaUtilizadores) ilustra uma pesquisa de utilizadores efetuada por um administrador hospitalar:
+Para consultar por utilizadores existentes na entidade hospitalar, deve-se clicar no botão **Pesquisar**. A figura [](#figPesquisaUtilizadores) ilustra uma pesquisa de utilizadores efetuada por um administrador hospitalar.
 
 ![figPesquisaUtilizadores](img/pages/5_2_2.jpg)
 
@@ -106,7 +106,7 @@ Após efetuar uma pesquisa por utilizadores ([5.2. Pesquisa de utilizadores](#pe
 
 ![figPesquisaSeleccaoUtilizadores](img/pages/5_3_1.jpg)
 
-<p class="caption" id="figPesquisaSeleccaoUtilizadores">Pesquisa e seleção de um utilizador</p>
+<p class="caption" id="figPesquisaSeleccaoUtilizadores">Pesquisa e seleção de um utilizador.</p>
 
 as opções seguintes tornam-se disponíveis:
 
@@ -119,4 +119,4 @@ A [](#figEdicaoUtilizadores) ilustra como exemplo a página de edição dos dado
 
 ![figEdicaoUtilizadores](img/pages/5_3_2.jpg)
 
-<p class="caption" id="figEdicaoUtilizadores">Edição de um utilizador</p>
+<p class="caption" id="figEdicaoUtilizadores">Edição de um utilizador.</p>
