@@ -115,7 +115,7 @@ as opções seguintes tornam-se disponíveis:
 * **Ativar** - Permite ativar o acesso ao sistema do utilizador de selecionado, caso ele esteja bloqueado. Encontra-se inativa se o utilizador selecionado já estiver ativo;
 * **Bloquear** - Bloqueia o acesso ao sistema do utilizador selecionado, caso ele esteja ativo. Encontra-se inativa se o utilizador selecionado já estiver bloqueado.
 
-A [](#figEdicaoUtilizadores) ilustra como exemplo a página de edição dos dados referentes a um utilizador, após o administrador o ter selecionado e clicado no botão **Editar**.
+A [](#figEdicaoUtilizadores) ilustra a página de edição dos dados referentes a um utilizador, após o administrador o ter selecionado e clicado no botão **Editar**.
 
 ![figEdicaoUtilizadores](img/pages/5_3_2.jpg)
 
