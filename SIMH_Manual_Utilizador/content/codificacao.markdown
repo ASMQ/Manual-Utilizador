@@ -54,7 +54,7 @@ De seguida, são representados os fluxos de estados que um dado episódio pode s
 
 ![figEstadosCodificacaoEpisodio2](img/episodio_estados_accoes2.png)
 
-<p class="caption" id="figEstadosCodificacaoEpisodio2">Fluxo de estados e operações sobre um episódio no estado **Finalizado**. </p>
+<p class="caption" id="figEstadosCodificacaoEpisodio2">Fluxo de estados e operações sobre um episódio no estado **Finalizado**.  </p>
 
 Um episódio começa sempre no estado **Por Codificar**. A única forma de o colocar disponível para faturação, é ao transitá-lo para o estado **Finalizado**.
 Para que transite para este estado, o episódio deve primeiro sofrer agrupamento GDH. Um episódio pode, adicionalmente, ser guardado em rascunho ou ser auditado.  Caso o utilizador esteja à procura de uma visão mais completa e abrangente do fluxo de estados e ações associado a um episódio, pode sempre consultar o seguinte [diagrama](img/episodio_estados_accoes_detalhe.png).
