@@ -1,22 +1,22 @@
 ---
 layout: default
-title: "Finalizar Urgente"
+title: "Fechar Urgente"
 ---
 
 
 ---
-<div id="finalizarUrgente"></div>
+<div id="fecharUrgente"></div>
 
 # 9. Fechar Urgente
 
-Este módulo permite enviar o código GDH do episódio para que este esteja pronto para ser faturado, ou seja, no caso de se necessitar de faturação urgente, este módulo agrupará o episódio para que este fique logo disponível para faturação no Sistema Informação fonte.
+Este módulo permite enviar para o Sistema Informação (SI) fonte o código GDH do episódio para que este seja logo faturado, ou seja, no caso de se necessitar de faturação urgente, este módulo agrupará o episódio para que este fique prontamente disponível para faturação no SI fonte.
 
 Apenas está acessível para os utilizadores que tenham o perfil de administradores e administrativos da entidade hospitalar onde exercem funções.
-Para isso, o utilizador deve, a partir da página inicial, aceder ao módulo de “Fechar Urgente”, tal como ilustra a figura [](#figAcessoFinalizarUrgente).
+Para isso, o utilizador deve, a partir da página inicial, aceder ao módulo de **Fechar Urgente**, tal como ilustra a figura [](#figAcessoFinalizarUrgente).
 
 ![figAcessoFinalizarUrgente](img/pages/10_1.jpg)   
 
-<p class="caption" id="figAcessoFinalizarUrgente">Módulo de Finalizar Urgente</p>
+<p class="caption" id="figAcessoFinalizarUrgente">Módulo de Fechar Urgente. </p>
 
 Ao aceder a este módulo, aparecerá a seguinte página:
 
