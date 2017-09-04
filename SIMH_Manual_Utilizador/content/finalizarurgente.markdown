@@ -9,7 +9,7 @@ title: "Finalizar Urgente"
 
 # 9. Fechar Urgente
 
-Este módulo permite enviar para o Sistema Informação fonte o GDH do episódio para que este seja logo faturado, ou seja, no caso de se necessitar de faturação urgente, este módulo agrupará o episódio para que este fique logo disponível para faturação no SONHO.
+Este módulo permite enviar o código GDH do episódio para que este esteja pronto para ser faturado, ou seja, no caso de se necessitar de faturação urgente, este módulo agrupará o episódio para que este fique logo disponível para faturação no Sistema Informação fonte.
 
 Apenas está acessível para os utilizadores que tenham o perfil de administradores e administrativos da entidade hospitalar onde exercem funções.
 Para isso, o utilizador deve, a partir da página inicial, aceder ao módulo de “Fechar Urgente”, tal como ilustra a figura [](#figAcessoFinalizarUrgente).
