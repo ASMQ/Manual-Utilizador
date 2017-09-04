@@ -77,15 +77,12 @@ Na pesquisa de episódios no estado **Por Codificar**, um utilizador deve preenc
 * **Módulo** - Módulo associado ao episódio a pesquisar.
 
 
-De seguida deve clicar no botão **Pesquisar**.
-
-A pesquisa realizada apenas devolve episódios relativos à entidade hospitalar do utilizador que efetuou a pesquisa.
-
-A seguinte exemplifica uma pesquisa de episódios através de alguns filtros aplicados no campo de pesquisa efetuada por um utilizador:
+De seguida, deve clicar no botão **Pesquisar**. A pesquisa realizada apenas devolve episódios relativos à entidade hospitalar do utilizador que efetuou a pesquisa.
+A figura seguinte exemplifica uma pesquisa de episódios, efetuada por um utilizador, através da inserção de alguns filtros no campo de pesquisa:
 
 ![figPesquisaCodificacaoEpisodios](img/pages/6_1_1.jpg)
 
-<p class="caption" id="figPesquisaCodificacaoEpisodios">Pesquisa de episódios por codificar.</p>
+<p class="caption" id="figPesquisaCodificacaoEpisodios">Pesquisa de episódios no estado "Por codificar".</p>
 
 <div id="detalhe"></div>
 <div id="codificacao-consulta-de-episodios"></div>
