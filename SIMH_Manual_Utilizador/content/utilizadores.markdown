@@ -76,7 +76,7 @@ No final da edição, o administrador deve clicar no botão **Criar** para compl
 
 ## 5.2 Pesquisa de utilizadores
 
-O administrador de uma entidade hospitalar apenas pode pesquisar por utilizadores que pertençam à sua entidade hospitalar.
+Na consulta de utilizadores, o administrador apenas pode pesquisar por utilizadores que pertençam à sua entidade hospitalar.
 
 Adicionalmente, os utilizadores a pesquisar podem ser filtrados por nome de utilizador, perfil ou estado.
 
@@ -92,7 +92,7 @@ Os estados disponíveis para pesquisa são:
 * **Ativo** - Utilizadores que pertencem à entidade e que podem aceder ao sistema.
 * **Bloqueado** - Utilizadores que pertencem à entidade e que foram bloqueados de aceder ao sistema.
 
-Para consultar por utilizadores existentes na entidade hospitalar, deve-se clicar no botão *Pesquisar*. A figura [](#figPesquisaUtilizadores) ilustra um exemplo de uma pesquisa de utilizadores efetuada por um administrador hospitalar:
+Para consultar por utilizadores existentes na entidade hospitalar, deve-se clicar no botão **Pesquisar**. A figura [](#figPesquisaUtilizadores) ilustra uma pesquisa de utilizadores efetuada por um administrador hospitalar:
 
 ![figPesquisaUtilizadores](img/pages/5_2_2.jpg)
 
@@ -108,7 +108,7 @@ Após efetuar uma pesquisa por utilizadores ([5.2. Pesquisa de utilizadores](#pe
 
 <p class="caption" id="figPesquisaSeleccaoUtilizadores">Pesquisa e seleção de um utilizador</p>
 
-as opções seguintes opções tornam-se disponíveis:
+as opções seguintes tornam-se disponíveis:
 
 * **Editar** - Permite a edição dos dados referentes ao utilizador selecionado;
 * **Remover** - Permite remover o utilizador selecionado do sistema;
