@@ -9,9 +9,9 @@ title: "Episódios"
 
 # 6. Episódios
 
-Através deste módulo é possível fazer a codificação de episódios de uma determinada entidade hospitalar.
+Através deste módulo é possível realizar a codificação de episódios de uma determinada entidade hospitalar.
 
-Para isso, o utilizador deve, a partir da página inicial, aceder ao módulo "Episódio", tal como ilustra a 
+Para isso, o utilizador deve, a partir da página inicial, aceder ao módulo **Episódio**, tal como ilustra a 
 [](#figAcessoCodificacaoEpisodios).
 
 ![figAcessoCodificacaoEpisodios](img/pages/6_1.jpg)
@@ -30,8 +30,8 @@ Aqui, é possível realizar três ações distintas: **Pesquisa**, **Consulta** 
 
 ## 6.0. Processo de Codificação
 
-Antes de dar a conhecer as diferentes ações possíveis a realizar na aplicação sobre os episódios, será introduzido ao utilizador o conjunto de estados e ações possíveis de realizar sobre um episódio durante a sua existência. 
-Os diversos estados possíveis de um dado episódio podem ser:
+Antes de dar a conhecer as diferentes ações possíveis a realizar na aplicação sobre os episódios, será introduzido ao utilizador o conjunto de estados e ações exequíveis sobre um episódio durante a sua existência. 
+Os diversos estados de um dado episódio podem ser:
 
 * **Por Codificar** - O episódio ainda não sofreu alterações para que este seja codificado e gravado. Foi integrado do Sistema de Informação (SI) fonte, sistema de onde provêm os dados dos episódios, e ainda não teve alterações;
 * **Não Codificável** - O episódio será marcado para não codificar;
@@ -42,19 +42,19 @@ Os diversos estados possíveis de um dado episódio podem ser:
 * **Alterado SI** - Quando um episódio se encontra no estado "Alterado SI" significa que existiu uma alteração no SI fonte que tem impacto na plataforma do SIMH. Quando estas alterações são detetadas e o episódio se encontrar no estado "Em Auditoria" ou "Finalizado", este será desagrupado e transitado para este estado;
 * **Fechado** - O episódio foi faturado e já não pode ser alterado;
  
-Este fluxo de estados pode ser consultado a partir da [](#figEstadosCodificacaoEpisodio).
+De seguida, são representados os fluxos de estados que um dado episódio pode ser submetido:
 
 ![figEstadosCodificacaoEpisodio](img/episodio_estados_accoes.png)
 
-<p class="caption" id="figEstadosCodificacaoEpisodio">Fluxo de estados e operações sobre um episódio Por Codificar</p>
+<p class="caption" id="figEstadosCodificacaoEpisodio">Fluxo de estados e operações sobre um episódio no estado "Por Codificar".</p>
 
 ![figEstadosCodificacaoEpisodio1](img/episodio_estados_accoes1.png)
 
-<p class="caption" id="figEstadosCodificacaoEpisodio1">Fluxo de estados e operações sobre um episódio Em Auditoria</p>
+<p class="caption" id="figEstadosCodificacaoEpisodio1">Fluxo de estados e operações sobre um episódio no estado "Em Auditoria".</p>
 
 ![figEstadosCodificacaoEpisodio2](img/episodio_estados_accoes2.png)
 
-<p class="caption" id="figEstadosCodificacaoEpisodio2">Fluxo de estados e operações sobre um episódio Finalizado</p>
+<p class="caption" id="figEstadosCodificacaoEpisodio2">Fluxo de estados e operações sobre um episódio no estado "Finalizado".</p>
 
 Um episódio começa sempre no estado **Por Codificar**. A única forma de o colocar disponível para faturação, é ao transitá-lo para o estado **Finalizado**.
 Para que transite para este estado, o episódio deve primeiro sofrer agrupamento GDH. Um episódio pode, adicionalmente, ser guardado em rascunho ou ser auditado.  Caso o utilizador esteja à procura de uma visão mais completa e abrangente do fluxo de estados e ações associado a um episódio, pode sempre consultar o seguinte [diagrama](img/episodio_estados_accoes_detalhe.png).
@@ -63,7 +63,7 @@ Para que transite para este estado, o episódio deve primeiro sofrer agrupamento
 
 ## 6.1. Pesquisa de episódios por codificar
 
-Na pesquisa de episódios por codificar, um utilizador deve preencher obrigatoriamente um dos seguintes campos:
+Na pesquisa de episódios no estado **Por Codificar**, um utilizador deve preencher obrigatoriamente um dos seguintes campos:
 
 * **Nº Processo** - Número de processo associado aos episódios a pesquisar;
 * **Nº Episódio** - Número que identifica de forma inequívoca o episódio na entidade hospitalar do utilizador;
@@ -77,15 +77,12 @@ Na pesquisa de episódios por codificar, um utilizador deve preencher obrigatori
 * **Módulo** - Módulo associado ao episódio a pesquisar.
 
 
-De seguida deve clicar no botão **Pesquisar**.
+De seguida, deve clicar no botão **Pesquisar**. A pesquisa realizada apenas devolve episódios relativos à entidade hospitalar do utilizador que efetuou a pesquisa.
+A figura seguinte exemplifica uma pesquisa de episódios, efetuada por um utilizador, através da inserção de alguns filtros no campo de pesquisa:
 
-A pesquisa realizada apenas devolve episódios relativos à entidade hospitalar do utilizador que efetuou a pesquisa.
+![figPesquisaCodificacaoEpisodios](img/pages/6_1_1.jpg)
 
-A [](#figPesquisaCodificacaoEpisodios) ilustra como exemplo uma pesquisa de episódios no estado ´Por Codificar´ efetuada por um utilizador.
-
-![figPesquisaCodificacaoEpisodios](img/pages/6_1_1.png)
-
-<p class="caption" id="figPesquisaCodificacaoEpisodios">Pesquisa de episódios por codificar.</p>
+<p class="caption" id="figPesquisaCodificacaoEpisodios">Pesquisa de episódios no estado "Por codificar".</p>
 
 <div id="detalhe"></div>
 <div id="codificacao-consulta-de-episodios"></div>

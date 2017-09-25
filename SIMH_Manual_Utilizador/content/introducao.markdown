@@ -73,31 +73,32 @@ Objetivos do Sistema:
 
 # 4. Conceitos Básicos
 
-Associada à interação com o sistema existe um conjunto de conceitos para os quais é chamada a atenção neste Capítulo.
+Associada à interação com o sistema existe um conjunto de conceitos para os quais é chamada a atenção neste capítulo.
 Todos os formulários que permitem a criação ou edição de dados têm um conjunto de regras de negócio e validações para facilitar o preenchimento correto dos dados.
 Para auxiliar as validações existem 4 tipos de mensagens:
 
-* Mensagem de Informação
+* Mensagem de Informação:
 
 ![logo](img/informacao.jpg)
 
-* Mensagem de Alerta
+* Mensagem de Alerta:
 
 ![logo](img/alerta.jpg)
 
-* Mensagem de Erro
+* Mensagem de Erro:
 
 ![logo](img/erro.jpg)
 
-* Mensagem de Sucesso
+* Mensagem de Sucesso:
 
 ![logo](img/sucesso.jpg)
 
-No cabeçalho das páginas do *SIMH* existe um conjunto de dados que serve para informação/contextualização do utilizador:
+
+No cabeçalho das páginas do SIMH existe um conjunto de dados que serve para informação/contextualização do utilizador:
 
 * Nome do utilizador;
 * Nome da entidade hospitalar, caso exista, associada ao utilizador;
-* Botão das opções avançadas ![logo](img/definicao.png). Ao clicar neste, o utilizador tem acesso a um conjunto de opções relativas ao perfil do utilizador, como por exemplo alterar password ([4.2. Alteração da senha](#alterao-da-senha)) ou as folhas de codificação para internamento e ambulatório tanto em **PDF** como em **EXCEL**;
+* Botão das opções avançadas ![logo](img/definicao.png). Ao clicar neste, o utilizador tem acesso a um conjunto de opções relativas ao perfil do utilizador, como por exemplo alterar *password* ([4.2. Alteração da senha](#alterao-da-senha)) ou as folhas de codificação para internamento e ambulatório tanto em **PDF** como em **EXCEL**;
 
 <img id="figDefinicaoEntradas" src="img/pages/4_1.jpg" style="display:block; width:auto; margin:auto;"/>
 
@@ -110,7 +111,7 @@ De seguida, apresenta-se como decorre a primeira interação do utilizador com a
 
 ## 4.1. Aceder ao SIMH
 
-O acesso ao SIMH é realizado através da navegação ao endereço em <http://simh.min-saude.pt/SIMH/>. Ao aceder irá surgir a página que aparece na [](#figLogin).
+O acesso ao SIMH é realizado através da navegação ao endereço em <http://simh.min-saude.pt/SIMH/>. Ao aceder à plataforma do SIMH irá surgir a página que aparece [](#figLogin).
 
 ![figLogin](img/pages/4_1_1.jpg)
 
@@ -121,7 +122,7 @@ Aqui, o utilizador deve inserir as suas credenciais nos campos obrigatórios e c
 |    |  Campos Obrigatórios [](#figLogin)  															|	           
 |----|----------------------------------------------------------------------------------------------|
 | a) | Nome de utilizador (utilizador do RNP ou o utilizador criado na aplicação SIMH)  			|
-| b) | Password								  														| 
+| b) | *Password*							  														| 
 
 > Os médicos registados na plataforma RNP podem entrar no SIMH com as credenciais da mesma. Apenas é necessário que o administrador da entidade hospitalar a que o médico pertence, faça a associação desse médico à sua entidade. Uma vez realizado, o médico ficará com o perfil de médico codificador e fica habilitado a entrar no SIMH (ver capítulo [8. Médicos Codificadores](#gestaoMedicos) para mais informações).
 > Os restantes utilizadores, devem ser primeiro criados conforme descrito no capítulo [5. Gestão de Utilizadores](#gestaoUtilizadores).
@@ -130,26 +131,26 @@ Caso o utilizador, por algum motivo, necessite de uma nova senha gerada pelo sis
 
 ![figLoginRecuperacao](img/pages/4_1_2.jpg)
 
-<p class="caption" id="figLoginRecuperacao"> Recuperação da Senha </p>
+<p class="caption" id="figLoginRecuperacao"> Recuperação da Senha. </p>
 De seguida, deverá preencher os campos obrigatórios do formulário e clicar em **Enviar**.  
 
 |    |  Campos Obrigatórios [](#figLoginRecuperacao)  											|	           
 |----|------------------------------------------------------------------------------------------|
 | a) | Nome de utilizador (utilizador do RNP ou o utilizador criado na aplicação SIMH) 			|
 
-Serão enviadas as intruções de recuperação de password para o e-mail associado ao utilizador introduzido no campo.
+Serão enviadas as intruções de recuperação de *password* para o e-mail associado ao utilizador introduzido no campo.
 
-Uma vez identificado e autenticado, é apresentada ao utilizador a página de entrada do *SIMH* ([](#figPaginaEntrada)), onde este pode aceder às funcionalidades que lhe estão disponíveis.
+Uma vez identificado e autenticado, é apresentada ao utilizador a página de entrada do SIMH ([](#figPaginaEntrada)), onde este pode aceder às funcionalidades que lhe estão disponíveis.
 
 ![figPaginaEntrada](img/pages/4_1_3.jpg)
 
-<p class="caption" id="figPaginaEntrada"> Página de entrada no SIMH </p>
+<p class="caption" id="figPaginaEntrada"> Página de entrada na plataforma do SIMH. </p>
  
 Dentro de cada módulo é possível aceder aos restantes menus bastando para isso clicar no logotipo da aplicação, no canto superior esquerdo, e selecionar o módulo para onde se deseja transitar, tal como ilustrado na [](#figMudaModulo).
 
 ![figMudaModulo](img/pages/4_1_4.jpg)
 
-<p class="caption" id="figMudaModulo">Transição entre módulos</p> 
+<p class="caption" id="figMudaModulo">Transição entre módulos.</p> 
  
 Na primeira vez que o utilizador acede a aplicação, aparecerá a página para alterar a sua senha ([4.3. Alteração da senha](#alterao-da-senha)).
 O utilizador pode sair do sistema a qualquer momento, bastando para isso clicar no botão **Terminar Sessão** ![logo](img/logout.jpg).
@@ -484,7 +485,7 @@ O menu principal irá apresentar-se ao utilizador de acordo com o perfil que est
 </tbody>
 </table>  
 
-\*A permissão ao módulo "Finalizar Urgente" e à opção "Codificação do Episódio Finalizar Urgente" apenas está acessível para entidades que detenham o *software* SONHO e que tenham a plataforma devidamente configurada.   
+\*A permissão ao módulo **Finalizar Urgente** e à opção **Codificação do Episódio Finalizar Urgente** apenas está acessível para entidades que detenham o *software* SONHO e que tenham a plataforma devidamente configurada.   
 
 O perfil de **Administrador Administrativo** possui a junção das permissões do perfil Administrativo e Administrador da Entidade. O mesmo ocorre para o perfil **Administrador Médico Codificador**, em que este perfil reúne as permissões do perfil Administrador da Entidade e Médico Codificador.   
 
@@ -497,11 +498,11 @@ O utilizador poderá ter apenas acesso parcial a uma funcionalidade, por exemplo
 ## 4.3. Alteração da senha
 
 A qualquer momento, o utilizador pode fazer a alteração da sua senha, clicando no botão das opções avançadas situado no canto superior direito da página (ver [4.Conceitos Básicos](#conceitos-bsicos)). 
-Após clicar em **Alterar Password** é apresentada uma página de alteração de senha, ver [](#figAlteraSenha).
+Após clicar em **Alteraração da Senha** é apresentada a seguinte página de alteração da *password*:
 
 ![figAlteraSenha](img/pages/4_2_1.jpg)
 
-<p class="caption" id="figAlteraSenha"> Página de alteração de senha </p>
+<p class="caption" id="figAlteraSenha"> Página de alteração da senha do utilizador. </p>
 
 O utilizador deverá preencher os seguintes campos obrigatórios:  
 

@@ -92,3 +92,9 @@ A hora de admissão das sessões de HDI pode não ser preenchida no SONHO confor
 <p class="faq"> 8. Como separar o conteudo do ficheiro .csv por colunas? </p>
 
 Poderá consultar o guia em: <a href="./file/guias/FicheirosCSV-Excel.pdf">Ficheiro csv em colunas</a>
+
+<br>
+<br>
+<p class="faq"> 9. Como juntar múltiplos ficheiros .csv num único ficheiro? </p>
+
+Poderá consultar uma explicação em: <a href="./file/guias/FicheirosCSV-multiplos.word">Ficheiro csv em colunas</a>
