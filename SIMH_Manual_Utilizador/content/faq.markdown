@@ -97,4 +97,4 @@ Poderá consultar o guia em: <a href="./file/guias/FicheirosCSV-Excel.pdf">Fiche
 <br>
 <p class="faq"> 9. Como juntar múltiplos ficheiros .csv num único ficheiro? </p>
 
-Poderá consultar uma explicação em: <a href="./file/guias/FicheirosCSV-multiplos.docx"> Juntar múltiplos ficheiro csv</a>
+Poderá consultar uma explicação em: <a href="./file/guias/Juntar múltiplos ficheiros CSV em um único ficheiro CSV.docx"> Juntar múltiplos ficheiro csv</a>
