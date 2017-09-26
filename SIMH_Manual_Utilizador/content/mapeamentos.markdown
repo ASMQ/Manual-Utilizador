@@ -11,15 +11,15 @@ title: "Mapeamentos"
 
 Este módulo permite fazer a correspondência de mapeamentos, de acordo com os valores identificativos do sistema de informação fonte de cada entidade. Há que ter em conta que a integração de episódios no SIMH depende dos mapeamentos feitos pela entidade. Caso estes estejam incompletos, poderão não aparecer episódios no SIMH.
 
-Para isso, o utilizador deve, a partir da página inicial, aceder ao módulo de “Mapeamentos”, tal como ilustra a figura [](#figAcessoMapeamentos). 
+Para isso, o utilizador deve, a partir da página inicial, aceder ao módulo de “Mapeamentos”, tal como ilustra a figura [](#figAcessoMapeamentos).
 
-![figAcessoMapeamentos](img/pages/12_1.jpg) 
+![figAcessoMapeamentos](../img/pages/12_1.jpg)
 
 <p class="caption" id="figAcessoMapeamentos">Módulo de Mapeamentos</p>
 
 Ao aceder a este módulo, aparecerá a seguinte página:
 
-![figMapeamentos](img/pages/12_2.jpg)
+![figMapeamentos](../img/pages/12_2.jpg)
 
 <p class="caption" id="figMapeamentos">Página de Visualização de Mapeamentos</p>
 
@@ -43,7 +43,7 @@ Para além dos separadores, também existêm dois campos de pesquisa:
 
 Estes poderão ser utilizados para filtrar os dados da tabela de Mapeamentos, que tal como indicam os nomes dos campos, poderão ser filtrados por Código no SONHO ou por Mapeamento no SIMH
 
-Aqui, poderão ser realizadas três ações distintas: **Criar**, **Editar** ou **Remover** mapeamentos de acordo com o separador que o utilizador selecionar. 
+Aqui, poderão ser realizadas três ações distintas: **Criar**, **Editar** ou **Remover** mapeamentos de acordo com o separador que o utilizador selecionar.
 <br>
 <br>
 O link seguinte demonstra como utilizar esta funcionalidade:
@@ -55,7 +55,7 @@ O link seguinte demonstra como utilizar esta funcionalidade:
 
 Ao selecionar o botão **Criar** o utilizador é enviado para o seguinte ecrã:
 
-![figCriaMapeamentos](img/pages/12_3.jpg)
+![figCriaMapeamentos](../img/pages/12_3.jpg)
 
 <p class="caption" id="figCriaMapeamentos">Página de Criação de Mapeamentos</p>
 
@@ -82,21 +82,21 @@ No final da criação, o utilizador deve clicar no botão **Criar**, para comple
 
 Quando no ecrã da figura [](#figMapeamentos), o utilizador pode selecionar um mapeamento já criado da lista, clicando no elemento da tabela, como mostrado de seguida:
 
-![figSelecionaMapeamentos](img/pages/12_4.jpg)
+![figSelecionaMapeamentos](../img/pages/12_4.jpg)
 
 <p class="caption" id="figSelecionaMapeamentos">Seleção de um Mapeamento</p>
 
 Só assim é possível aceder à página de Edição de mapeamentos, que se revela da seguinte maneira:
 
-![figEditaMapeamentos](img/pages/12_5.jpg)
+![figEditaMapeamentos](../img/pages/12_5.jpg)
 
 <p class="caption" id="figEditaMapeamentos">Página de Edição de Mapeamentos</p>
 
 Os critérios de preenchimento são semelhantes ao da página de criação.
-O sistema permite, ao editar um mapeamento, que estas alterações se reflitam nos episódios já modificados. 
+O sistema permite, ao editar um mapeamento, que estas alterações se reflitam nos episódios já modificados.
 Ao selecionar a opção Sim do campo "Atualizar registos anteriores", a edição efetuada será aplicada a todos os episódios já modificados para trás. Caso selecione Não, o novo mapeamento só terá efeito a partir do momento da mesma.
 
-Uma vez concluídas as alterações pretendidas no mapeamento em edição, o utilizador deve clicar no botão **Alterar**. 
+Uma vez concluídas as alterações pretendidas no mapeamento em edição, o utilizador deve clicar no botão **Alterar**.
 
 <div id="removerMapeamentos"></div>
 
@@ -104,7 +104,7 @@ Uma vez concluídas as alterações pretendidas no mapeamento em edição, o uti
 
 Para aceder a esta página deverá selecionar um elemento da lista e selecionar o botão **Remover**, sendo enviado para o seguinte ecrã:
 
-![figRemoveMapeamentos](img/pages/12_6.jpg)
+![figRemoveMapeamentos](../img/pages/12_6.jpg)
 
 <p class="caption" id="figRemoveMapeamentos">Página de Remoção de Mapeamentos</p>
 
